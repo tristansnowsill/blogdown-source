@@ -18,27 +18,43 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Senior Research Fellow in Health Economics"
+  company = "Health Economics Group, University of Exeter Medical School"
+  company_url = "http://medicine.exeter.ac.uk/research/healthresearch/healtheconomics/"
+  location = "Exeter"
+  date_start = "2020-02-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Postdoctoral Research Fellow in Health Economics"
+  company = "Health Economics Group, University of Exeter Medical School"
+  company_url = "http://medicine.exeter.ac.uk/research/healthresearch/healtheconomics/"
+  location = "Exeter"
+  date_start = "2017-10-22"
+  date_end = "2020-01-31"
+
+[[experience]]
+  title = "Deputy Director and Research Fellow in Health Economic Modelling"
+  company = "Peninsula Technology Assessment Group (PenTAG), University of Exeter Medical School"
+  company_url = "http://medicine.exeter.ac.uk/esmi/workstreams/pentaghealthtechnologyassessment/"
+  location = "Exeter"
+  date_start = "2016-02-01"
+  date_end = "2017-10-21"
+
+[[experience]]
+  title = "Research Fellow in Health Economic Modelling"
+  company = "Peninsula Technology Assessment Group (PenTAG), University of Exeter Medical School"
+  company_url = "http://medicine.exeter.ac.uk/esmi/workstreams/pentaghealthtechnologyassessment/"
+  location = "Exeter"
+  date_start = "2013-12-01"
+  date_end = "2016-01-31"
+
+[[experience]]
+  title = "Associate Research Fellow in Health Economic Modelling"
+  company = "Peninsula Technology Assessment Group (PenTAG), University of Exeter Medical School"
+  company_url = "http://medicine.exeter.ac.uk/esmi/workstreams/pentaghealthtechnologyassessment/"
+  location = "Exeter"
+  date_start = "2011-08-01"
+  date_end = "2013-11-30"
 
 +++

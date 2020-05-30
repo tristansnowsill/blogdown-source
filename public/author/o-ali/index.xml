@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O Ali | Tristan Snowsill</title>
+    <link>/author/o-ali/</link>
+      <atom:link href="/author/o-ali/index.xml" rel="self" type="application/rss+xml" />
+    <description>O Ali</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>O Ali</title>
+      <link>/author/o-ali/</link>
+    </image>
+    
+    <item>
+      <title>NOAM: News outlets analysis and monitoring system</title>
+      <link>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Found in translation</title>
+      <link>/publication/turchi-2009-found-in-translation/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/turchi-2009-found-in-translation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

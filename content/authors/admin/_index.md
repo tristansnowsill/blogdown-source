@@ -17,7 +17,7 @@ interests:
 - Diagnostic tests
 organizations:
 - name: Health Economics Group, University of Exeter Medical School
-  url: ""
+  url: "http://medicine.exeter.ac.uk/research/healthresearch/healtheconomics/"
 role: Senior Research Fellow in Health Economics
 social:
 - icon: envelope

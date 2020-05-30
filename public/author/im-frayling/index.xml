@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IM Frayling | Tristan Snowsill</title>
+    <link>/author/im-frayling/</link>
+      <atom:link href="/author/im-frayling/index.xml" rel="self" type="application/rss+xml" />
+    <description>IM Frayling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>IM Frayling</title>
+      <link>/author/im-frayling/</link>
+    </image>
+    
+    <item>
+      <title>The predicted impact and cost-effectiveness of systematic testing of people with incident colorectal cancer for Lynch syndrome</title>
+      <link>/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Manchester International Consensus Group recommendations for the management of gynecological cancers in Lynch syndrome</title>
+      <link>/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-effectiveness analysis of reflex testing for Lynch syndrome in women with endometrial cancer in the UK setting</title>
+      <link>/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review of test accuracy studies evaluating molecular micro-satellite instability testing for the detection of individuals with lynch syndrome</title>
+      <link>/publication/coelho-2017-a-systematic-review-of-test-accuracy-studies/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/coelho-2017-a-systematic-review-of-test-accuracy-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular testing for Lynch syndrome in people with colorectal cancer: Systematic reviews and economic evaluation</title>
+      <link>/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Boulton | Tristan Snowsill</title>
+    <link>/author/e-boulton/</link>
+      <atom:link href="/author/e-boulton/index.xml" rel="self" type="application/rss+xml" />
+    <description>E Boulton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>E Boulton</title>
+      <link>/author/e-boulton/</link>
+    </image>
+    
+    <item>
+      <title>Handsearching had best recall but poor efficiency when exporting to a bibliographic tool: case study</title>
+      <link>/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

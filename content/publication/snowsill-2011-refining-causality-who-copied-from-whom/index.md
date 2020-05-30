@@ -1,0 +1,12 @@
+---
+title: "Refining causality: Who copied from whom?"
+date: 2011-09-01
+publishDate: 2020-05-30T12:16:49.502200Z
+authors: ["T Snowsill", "N Fyson", "T De Bie", "N Cristianini"]
+publication_types: ["2"]
+abstract: "Inferring causal networks behind observed data is an active area of research with wide applicability to areas such as epidemiology, microbiology and social science. In particular recent research has focused on identifying how information propagates through the Internet. This research has so far only used temporal features of observations, and while reasonable results have been achieved, there is often further information which can be used. In this paper we show that additional features of the observed data can be used very effectively to improve an existing method. Our particular example is one of inferring an underlying network for how text is reused in the Internet, although the general approach is applicable to other inference methods and information sources. We develop a method to identify how a piece of text evolves as it moves through an underlying network and how substring information can be used to narrow down where in the evolutionary process a particular observation at a node lies. Hence we narrow down the number of ways the node could have acquired the infection. Text reuse is detected using a suffix tree which is also used to identify the substring relations between chunks of reused text. We then use a modification of the NetCover method to infer the underlying network. Experimental results - on both synthetic and real life data - show that using more information than just timing leads to greater accuracy in the inferred networks. Copyright 2011 ACM."
+featured: false
+publication: "*Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*"
+doi: "10.1145/2020408.2020483"
+---
+

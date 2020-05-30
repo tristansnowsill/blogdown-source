@@ -77,6 +77,81 @@
     </item>
     
     <item>
+      <title>Handsearching had best recall but poor efficiency when exporting to a bibliographic tool: case study</title>
+      <link>/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Trial of physical Activity assisted Reduction of Smoking (TARS)</title>
+      <link>/project/tars/</link>
+      <pubDate>Sat, 30 May 2020 13:55:18 +0100</pubDate>
+      <guid>/project/tars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-effectiveness of the Manchester approach to identifying Lynch syndrome in women with endometrial cancer</title>
+      <link>/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</link>
+      <pubDate>Sat, 30 May 2020 12:16:49 +0000</pubDate>
+      <guid>/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in health economic modelling</title>
+      <link>/project/advances-in-modelling/</link>
+      <pubDate>Sat, 30 May 2020 10:30:00 +0000</pubDate>
+      <guid>/project/advances-in-modelling/</guid>
+      <description>&lt;p&gt;I have a longstanding interest in methodological developments in health economic modelling. This project collects these and points to any relevant publications.&lt;/p&gt;
+&lt;h2 id=&#34;sojourn-dependent-transitions&#34;&gt;Sojourn-dependent transitions&lt;/h2&gt;
+&lt;p&gt;Markov models are extremely common in economic evaluation, but they have a structural limitation which means it is not possible to know the sojourn time in each state (time spent in that state) and use this to determine the rate of transitions to other states.&lt;/p&gt;
+&lt;p&gt;A typical workaround is to use tunnel states, but this is not without drawbacks.&lt;/p&gt;
+&lt;p&gt;I devised a method for calculating expected discounted outcomes when transitions between states are governed by sojourn-dependent time to event distributions. The method uses moment-generating functions and was presented at the Health Economists&amp;rsquo; Study Group in Bristol (Summer 2018) and 
+&lt;a href=&#34;/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/&#34;&gt;published in Medical Decision Making&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;probabilistic-sensitivity-analysis&#34;&gt;Probabilistic sensitivity analysis&lt;/h2&gt;
+&lt;p&gt;Probabilistic sensitivity analysis is a way to understand how uncertainty in model parameters translates into uncertainty about what decision to make. It also underpins value of information analyses.&lt;/p&gt;
+&lt;p&gt;I have submitted an abstract to the 
+&lt;a href=&#34;https://smdm.org/meeting/42nd-annual-north-american-meeting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMDM 42nd Annual North American meeting (October 2020)&lt;/a&gt; describing a new method for propagating uncertainty through a decision model and conducting probabilistic sensitivity analysis.&lt;/p&gt;
+&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REACT</title>
+      <link>/project/react/</link>
+      <pubDate>Sat, 30 May 2020 10:00:00 +0000</pubDate>
+      <guid>/project/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Tribulations of Trials: Lessons Learnt Recruiting 777 Older Adults Into REtirement in ACTion (REACT), a Trial of a Community, Group-Based Active Aging Intervention Targeting Mobility Disability</title>
+      <link>/publication/withall-2020-the-tribulations-of-trials/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/withall-2020-the-tribulations-of-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The predicted impact and cost-effectiveness of systematic testing of people with incident colorectal cancer for Lynch syndrome</title>
+      <link>/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Manchester International Consensus Group recommendations for the management of gynecological cancers in Lynch syndrome</title>
+      <link>/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -331,18 +406,19 @@ You found me!
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>A New Method for Model-Based Health Economic Evaluation Utilizing and Extending Moment-Generating Functions</title>
+      <link>/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three biomarker tests to help diagnose preterm labour: a systematic review and economic evaluation</title>
+      <link>/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -529,6 +605,46 @@ Three
     </item>
     
     <item>
+      <title>Cost-effectiveness analysis of reflex testing for Lynch syndrome in women with endometrial cancer in the UK setting</title>
+      <link>/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do we know enough about the effect of low-dose computed tomography screening for lung cancer on survival to act? A systematic review, meta-analysis and network meta-analysis of randomised controlled trials.</title>
+      <link>/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-dose computed tomography for lung cancer screening in high-risk populations: A systematic review and economic evaluation</title>
+      <link>/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BIOMARKER TESTS TO HELP DIAGNOSE PRETERM LABOUR IN SYMPTOMATIC WOMEN WITH INTACT MEMBRANES: A SYSTEMATIC REVIEW</title>
+      <link>/publication/barnish-2018-biomarker-tests-to-help-diagnose-preterm-labour/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/barnish-2018-biomarker-tests-to-help-diagnose-preterm-labour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic Analysis of First-Line Treatment with Cetuximab or Panitumumab for RAS Wild-Type Metastatic Colorectal Cancer in England</title>
+      <link>/publication/tikhonova-2018-economic-analysis-of-first-line-treatment-with-cetuximab/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tikhonova-2018-economic-analysis-of-first-line-treatment-with-cetuximab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -547,24 +663,83 @@ Three
     </item>
     
     <item>
+      <title>A systematic review of test accuracy studies evaluating molecular micro-satellite instability testing for the detection of individuals with lynch syndrome</title>
+      <link>/publication/coelho-2017-a-systematic-review-of-test-accuracy-studies/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/coelho-2017-a-systematic-review-of-test-accuracy-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular testing for Lynch syndrome in people with colorectal cancer: Systematic reviews and economic evaluation</title>
+      <link>/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunosuppressive agents in adult kidney transplantation in the National Health Service: A model-based economic evaluation</title>
+      <link>/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azacitidine for Treating Acute Myeloid Leukaemia with More Than 30 % Bone Marrow Blasts: An Evidence Review Group Perspective of a National Institute for Health and Care Excellence Single Technology Appraisal</title>
+      <link>/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The clinical effectiveness and cost-effectiveness of cetuximab (review of technology appraisal no. 176) and panitumumab (partial review of technology appraisal no. 240) for previously untreated metastatic colorectal cancer: A systematic review and economic evaluation</title>
+      <link>/publication/huxley-2017-the-clinical-effectiveness-and-cost-effectiveness-of-cetuximab/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/huxley-2017-the-clinical-effectiveness-and-cost-effectiveness-of-cetuximab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AZACITIDINE FOR TREATING ACUTE MYELOID LEUKAEMIA: A NICE SINGLE TECHNOLOGY APPRAISAL</title>
+      <link>/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunosuppressive therapy for kidney transplantation in adults: a systematic review and economic model</title>
+      <link>/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunosuppressive therapy for kidney transplantation in children and adolescents: Systematic review and economic evaluation</title>
+      <link>/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COST EFFECTIVENESS OF CETUXIMAB AND PANITUMUMAB FOR FIRST-LINE RAS WT METASTATIC COLORECAL CANCER</title>
+      <link>/publication/tikhonova-2016-cost-effectiveness-of-cetuximab-and-panitumumab/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tikhonova-2016-cost-effectiveness-of-cetuximab-and-panitumumab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>External Project</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -712,23 +887,19 @@ Three
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The effectiveness and cost-effectiveness of erythropoiesis-stimulating agents (epoetin and darbepoetin) for treating cancer treatment-induced anaemia (including review of technology appraisal no. 142): A systematic review and economic model</title>
+      <link>/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunosuppressive therapy for renal transplantation in adults: a systematic review and network meta-analyses.</title>
+      <link>/publication/haasova-2016-immunosuppressive-therapy-for-renal-transplantation-in-adults/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/haasova-2016-immunosuppressive-therapy-for-renal-transplantation-in-adults/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -782,23 +953,99 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>A model-based assessment of the cost-utility of strategies to identify Lynch syndrome in early-onset colorectal cancer patients</title>
+      <link>/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review and economic evaluation of intraoperative tests [RD-100i one-step nucleic acid amplification (OSNA) system and Metasin test] for detecting sentinel lymph node metastases in breast cancer.</title>
+      <link>/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MODEL-BASED COST-UTILITY ANALYSIS OF ERYTHROPOIESIS-STIMULATING AGENTS FOR THE TREATMENT OF CANCER-TREATMENT INDUCED ANAEMIA IN THE UK NHS</title>
+      <link>/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1498P WHAT IS THE CLINICAL EFFECTIVENESS OF ERYTHROPOIESIS STIMULATING AGENTS FOR THE TREATMENT OF CANCER TREATMENT-INDUCED ANAEMIA?</title>
+      <link>/publication/crathorne-2014-what-is-the-clinical-effectiveness-of-erythropoiesis/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/crathorne-2014-what-is-the-clinical-effectiveness-of-erythropoiesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A COST-EFFECTIVENESS ANALYSIS OF ERYTHROPOIESIS-STIMULATING AGENTS FOR TREATING CANCER-TREATMENT INDUCED ANAEMIA</title>
+      <link>/publication/huxley-2014-a-cost-effectiveness-analysis-of-erythropoiesis-stimulating/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/huxley-2014-a-cost-effectiveness-analysis-of-erythropoiesis-stimulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review and economic evaluation of diagnostic strategies for Lynch syndrome</title>
+      <link>/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COST-EFFECTIVENESS OF SYSTEMATIC TESTING FOR LYNCH SYNDROME IN PATIENTS NEWLY DIAGNOSED WITH COLORECTAL CANCER IN THE UNITED KINGDOM</title>
+      <link>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refining causality: Who copied from whom?</title>
+      <link>/publication/snowsill-2011-refining-causality-who-copied-from-whom/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2011-refining-causality-who-copied-from-whom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NOAM: News outlets analysis and monitoring system</title>
+      <link>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding surprising patterns in textual data streams</title>
+      <link>/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting events in a million New York times articles</title>
+      <link>/publication/snowsill-2010-detecting-events-in-a-million-new-york-times-articles/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/snowsill-2010-detecting-events-in-a-million-new-york-times-articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Found in translation</title>
+      <link>/publication/turchi-2009-found-in-translation/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/turchi-2009-found-in-translation/</guid>
+      <description></description>
     </item>
     
   </channel>

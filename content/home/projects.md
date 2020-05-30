@@ -26,12 +26,20 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Health economic modelling"
+    tag = "Health economic modelling"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Economic evaluation"
+    tag = "Economic evaluation"
+  
+  [[content.filter_button]]
+    name = "RCT"
+    tag = "Randomised controlled trial"
+  
+  [[content.filter_button]]
+    name = "Physical activity"
+    tag = "Physical activity"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagnostic tests | Tristan Snowsill</title>
+    <link>/tag/diagnostic-tests/</link>
+      <atom:link href="/tag/diagnostic-tests/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diagnostic tests</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 30 May 2020 12:16:49 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Diagnostic tests</title>
+      <link>/tag/diagnostic-tests/</link>
+    </image>
+    
+    <item>
+      <title>Cost-effectiveness of the Manchester approach to identifying Lynch syndrome in women with endometrial cancer</title>
+      <link>/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</link>
+      <pubDate>Sat, 30 May 2020 12:16:49 +0000</pubDate>
+      <guid>/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three biomarker tests to help diagnose preterm labour: a systematic review and economic evaluation</title>
+      <link>/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review and economic evaluation of intraoperative tests [RD-100i one-step nucleic acid amplification (OSNA) system and Metasin test] for detecting sentinel lymph node metastases in breast cancer.</title>
+      <link>/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COST-EFFECTIVENESS OF SYSTEMATIC TESTING FOR LYNCH SYNDROME IN PATIENTS NEWLY DIAGNOSED WITH COLORECTAL CANCER IN THE UNITED KINGDOM</title>
+      <link>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
