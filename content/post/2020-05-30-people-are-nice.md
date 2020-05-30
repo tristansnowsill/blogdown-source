@@ -1,6 +1,6 @@
 ---
 title: People are nice
-author: Tristan Snowsill
+author: tristan
 date: '2020-05-30'
 slug: people-are-nice
 categories: []
