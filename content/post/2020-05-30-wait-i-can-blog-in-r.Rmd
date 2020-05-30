@@ -1,0 +1,32 @@
+---
+title: "Wait, I can blog in R?"
+author: "Tristan Snowsill"
+date: "2020-05-30T14:27:00"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This feels pretty powerful.
+
+```{r load-packages, include = FALSE}
+library(tidyverse)
+library(gt)
+library(gtsummary)
+```
+
+
+```{r table}
+storms %>%
+  select(category) %>%
+  tbl_summary()
+```
+
+```{r plot}
+ggplot(storms %>% filter(category >= 0), aes(x = year, fill = category)) +
+  geom_bar() +
+  labs(x = "Year", y = "Number of storms", fill = "Category") +
+  theme_minimal()
+```
