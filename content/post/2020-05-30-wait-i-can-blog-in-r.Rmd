@@ -10,6 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 This feels pretty powerful.
+<!--more-->
+
+This feels pretty powerful.
 
 ```{r load-packages, include = FALSE}
 library(tidyverse)
