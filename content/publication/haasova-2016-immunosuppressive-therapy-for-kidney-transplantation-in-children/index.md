@@ -8,5 +8,8 @@ abstract: "Background: End-stage renal disease is a long-term irreversible decli
 featured: false
 publication: "*Health Technology Assessment*"
 doi: "10.3310/hta20610"
+tags:
+- Economic evaluation
+- Health economic modelling
 ---
 

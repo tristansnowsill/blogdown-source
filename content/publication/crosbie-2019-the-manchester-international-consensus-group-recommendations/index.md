@@ -8,5 +8,7 @@ abstract: "Purpose: There are no internationally agreed upon clinical guidelines
 featured: false
 publication: "*Genetics in Medicine*"
 doi: "10.1038/s41436-019-0489-y"
+tags:
+- Lynch syndrome
 ---
 

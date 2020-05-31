@@ -8,5 +8,8 @@ abstract: "Background Anaemia is a common side effect of cancer treatments and c
 featured: false
 publication: "*Health Technology Assessment*"
 doi: "10.3310/hta20130"
+tags:
+- Economic evaluation
+- Health economic modelling
 ---
 

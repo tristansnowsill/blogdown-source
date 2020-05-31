@@ -6,7 +6,7 @@ authors: ["T Snowsill", "N Ryan", "E Crosbie"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Journal of Clinical Medicine*"
+publication: "*Journal of Clinical Medicine* (In press)"
 tags:
 - Health economic modelling
 - Economic evaluation

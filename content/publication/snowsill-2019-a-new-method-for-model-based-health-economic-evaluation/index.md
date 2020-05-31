@@ -10,5 +10,7 @@ publication: "*Medical Decision Making*"
 doi: "10.1177/0272989X19860119"
 projects:
 - advances-in-modelling
+tags:
+- Health economic modelling
 ---
 

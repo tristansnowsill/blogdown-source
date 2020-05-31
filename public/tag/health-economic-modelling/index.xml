@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health economic modelling | Tristan Snowsill</title>
-    <link>/tag/health-economic-modelling/</link>
-      <atom:link href="/tag/health-economic-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tristansnowsill.co.uk/tag/health-economic-modelling/</link>
+      <atom:link href="https://www.tristansnowsill.co.uk/tag/health-economic-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>Health economic modelling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 30 May 2020 13:55:18 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Health economic modelling</title>
-      <link>/tag/health-economic-modelling/</link>
+      <link>https://www.tristansnowsill.co.uk/tag/health-economic-modelling/</link>
     </image>
     
     <item>
       <title>A Trial of physical Activity assisted Reduction of Smoking (TARS)</title>
-      <link>/project/tars/</link>
+      <link>https://www.tristansnowsill.co.uk/project/tars/</link>
       <pubDate>Sat, 30 May 2020 13:55:18 +0100</pubDate>
-      <guid>/project/tars/</guid>
+      <guid>https://www.tristansnowsill.co.uk/project/tars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cost-effectiveness of the Manchester approach to identifying Lynch syndrome in women with endometrial cancer</title>
-      <link>/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</link>
       <pubDate>Sat, 30 May 2020 12:16:49 +0000</pubDate>
-      <guid>/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advances in health economic modelling</title>
-      <link>/project/advances-in-modelling/</link>
+      <link>https://www.tristansnowsill.co.uk/project/advances-in-modelling/</link>
       <pubDate>Sat, 30 May 2020 10:30:00 +0000</pubDate>
-      <guid>/project/advances-in-modelling/</guid>
+      <guid>https://www.tristansnowsill.co.uk/project/advances-in-modelling/</guid>
       <description>&lt;p&gt;I have a longstanding interest in methodological developments in health economic modelling. This project collects these and points to any relevant publications.&lt;/p&gt;
 &lt;h2 id=&#34;sojourn-dependent-transitions&#34;&gt;Sojourn-dependent transitions&lt;/h2&gt;
 &lt;p&gt;Markov models are extremely common in economic evaluation, but they have a structural limitation which means it is not possible to know the sojourn time in each state (time spent in that state) and use this to determine the rate of transitions to other states.&lt;/p&gt;
 &lt;p&gt;A typical workaround is to use tunnel states, but this is not without drawbacks.&lt;/p&gt;
 &lt;p&gt;I devised a method for calculating expected discounted outcomes when transitions between states are governed by sojourn-dependent time to event distributions. The method uses moment-generating functions and was presented at the Health Economists&amp;rsquo; Study Group in Bristol (Summer 2018) and 
-&lt;a href=&#34;/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/&#34;&gt;published in Medical Decision Making&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.tristansnowsill.co.uk/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/&#34;&gt;published in Medical Decision Making&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;probabilistic-sensitivity-analysis&#34;&gt;Probabilistic sensitivity analysis&lt;/h2&gt;
 &lt;p&gt;Probabilistic sensitivity analysis is a way to understand how uncertainty in model parameters translates into uncertainty about what decision to make. It also underpins value of information analyses.&lt;/p&gt;
 &lt;p&gt;I have submitted an abstract to the 
@@ -49,17 +49,145 @@
     
     <item>
       <title>REACT</title>
-      <link>/project/react/</link>
+      <link>https://www.tristansnowsill.co.uk/project/react/</link>
       <pubDate>Sat, 30 May 2020 10:00:00 +0000</pubDate>
-      <guid>/project/react/</guid>
+      <guid>https://www.tristansnowsill.co.uk/project/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The predicted impact and cost-effectiveness of systematic testing of people with incident colorectal cancer for Lynch syndrome</title>
+      <link>https://www.tristansnowsill.co.uk/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Method for Model-Based Health Economic Evaluation Utilizing and Extending Moment-Generating Functions</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-effectiveness analysis of reflex testing for Lynch syndrome in women with endometrial cancer in the UK setting</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-dose computed tomography for lung cancer screening in high-risk populations: A systematic review and economic evaluation</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic Analysis of First-Line Treatment with Cetuximab or Panitumumab for RAS Wild-Type Metastatic Colorectal Cancer in England</title>
+      <link>https://www.tristansnowsill.co.uk/publication/tikhonova-2018-economic-analysis-of-first-line-treatment-with-cetuximab/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/tikhonova-2018-economic-analysis-of-first-line-treatment-with-cetuximab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular testing for Lynch syndrome in people with colorectal cancer: Systematic reviews and economic evaluation</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunosuppressive agents in adult kidney transplantation in the National Health Service: A model-based economic evaluation</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The clinical effectiveness and cost-effectiveness of cetuximab (review of technology appraisal no. 176) and panitumumab (partial review of technology appraisal no. 240) for previously untreated metastatic colorectal cancer: A systematic review and economic evaluation</title>
+      <link>https://www.tristansnowsill.co.uk/publication/huxley-2017-the-clinical-effectiveness-and-cost-effectiveness-of-cetuximab/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/huxley-2017-the-clinical-effectiveness-and-cost-effectiveness-of-cetuximab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunosuppressive therapy for kidney transplantation in adults: a systematic review and economic model</title>
+      <link>https://www.tristansnowsill.co.uk/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunosuppressive therapy for kidney transplantation in children and adolescents: Systematic review and economic evaluation</title>
+      <link>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COST EFFECTIVENESS OF CETUXIMAB AND PANITUMUMAB FOR FIRST-LINE RAS WT METASTATIC COLORECAL CANCER</title>
+      <link>https://www.tristansnowsill.co.uk/publication/tikhonova-2016-cost-effectiveness-of-cetuximab-and-panitumumab/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/tikhonova-2016-cost-effectiveness-of-cetuximab-and-panitumumab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effectiveness and cost-effectiveness of erythropoiesis-stimulating agents (epoetin and darbepoetin) for treating cancer treatment-induced anaemia (including review of technology appraisal no. 142): A systematic review and economic model</title>
+      <link>https://www.tristansnowsill.co.uk/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model-based assessment of the cost-utility of strategies to identify Lynch syndrome in early-onset colorectal cancer patients</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MODEL-BASED COST-UTILITY ANALYSIS OF ERYTHROPOIESIS-STIMULATING AGENTS FOR THE TREATMENT OF CANCER-TREATMENT INDUCED ANAEMIA IN THE UK NHS</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A COST-EFFECTIVENESS ANALYSIS OF ERYTHROPOIESIS-STIMULATING AGENTS FOR TREATING CANCER-TREATMENT INDUCED ANAEMIA</title>
+      <link>https://www.tristansnowsill.co.uk/publication/huxley-2014-a-cost-effectiveness-analysis-of-erythropoiesis-stimulating/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/huxley-2014-a-cost-effectiveness-analysis-of-erythropoiesis-stimulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review and economic evaluation of diagnostic strategies for Lynch syndrome</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COST-EFFECTIVENESS OF SYSTEMATIC TESTING FOR LYNCH SYNDROME IN PATIENTS NEWLY DIAGNOSED WITH COLORECTAL CANCER IN THE UNITED KINGDOM</title>
-      <link>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</guid>
       <description></description>
     </item>
     

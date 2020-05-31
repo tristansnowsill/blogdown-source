@@ -8,5 +8,10 @@ abstract: "Objectives: To evaluate the health impact and cost-effectiveness of s
 featured: false
 publication: "*Medical Journal of Australia*"
 doi: "10.5694/mja2.50356"
+tags:
+- Economic evaluation
+- Health economic modelling
+- Lynch syndrome
+- Diagnostic tests
 ---
 

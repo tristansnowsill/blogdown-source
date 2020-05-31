@@ -8,5 +8,10 @@ abstract: "Background: Lynch syndrome is an autosomal dominant cancer predisposi
 featured: false
 publication: "*BMC Cancer*"
 doi: "10.1186/s12885-015-1254-5"
+tags:
+- Economic evaluation
+- Health economic modelling
+- Lynch syndrome
+- Diagnostic tests
 ---
 

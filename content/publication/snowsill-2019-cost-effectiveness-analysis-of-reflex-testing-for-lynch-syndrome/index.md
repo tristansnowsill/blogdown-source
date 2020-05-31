@@ -8,5 +8,10 @@ abstract: "Background Lynch syndrome is a hereditary cancer syndrome caused by c
 featured: false
 publication: "*PLoS ONE*"
 doi: "10.1371/journal.pone.0221419"
+tags:
+- Economic evaluation
+- Health economic modelling
+- Lynch syndrome
+- Diagnostic tests
 ---
 

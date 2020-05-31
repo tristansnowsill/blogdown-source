@@ -8,5 +8,8 @@ abstract: "LIMITATIONS: For included trials, there was substantial methodologica
 featured: false
 publication: "*Health technology assessment (Winchester, England)*"
 doi: "10.3310/hta20620"
+tags:
+- Economic evaluation
+- Health economic modelling
 ---
 

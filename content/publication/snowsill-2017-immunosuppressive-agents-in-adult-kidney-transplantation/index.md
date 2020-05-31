@@ -8,5 +8,8 @@ abstract: "Background. Immunosuppression is required in kidney transplantation t
 featured: false
 publication: "*Nephrology Dialysis Transplantation*"
 doi: "10.1093/ndt/gfx074"
+tags:
+- Economic evaluation
+- Health economic modelling
 ---
 

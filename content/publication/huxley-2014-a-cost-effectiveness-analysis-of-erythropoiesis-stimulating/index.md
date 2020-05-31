@@ -9,5 +9,8 @@ featured: false
 publication: "*ANNALS OF ONCOLOGY*"
 url_pdf: "http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&KeyUT=WOS:000346901000294&DestLinkType=FullRecord&DestApp=ALL_WOS&UsrCustomerID=0326ddbefd13eaffce8024ca57cffb07"
 doi: "10.1093/annonc/mdu341.2"
+tags:
+- Economic evaluation
+- Health economic modelling
 ---
 

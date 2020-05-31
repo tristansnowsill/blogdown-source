@@ -9,5 +9,7 @@ featured: false
 publication: "*Diagn Progn Res*"
 url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/31890897"
 doi: "10.1186/s41512-019-0067-4"
+tags:
+- Cancer screening
 ---
 

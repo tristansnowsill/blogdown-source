@@ -8,5 +8,10 @@ abstract: ""
 featured: false
 publication: "*Health Technology Assessment*"
 url_pdf: "http://www.journalslibrary.nihr.ac.uk/__data/assets/pdf_file/0005/125978/FullReport-hta18580.pdf"
+tags:
+- Economic evaluation
+- Health economic modelling
+- Lynch syndrome
+- Diagnostic tests
 ---
 

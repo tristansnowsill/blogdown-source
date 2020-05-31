@@ -8,5 +8,8 @@ abstract: "Background: A systematic review was conducted to assess the diagnosti
 featured: false
 publication: "*BMC Cancer*"
 doi: "10.1186/s12885-017-3820-5"
+tags:
+- Lynch syndrome
+- Diagnostic tests
 ---
 

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J Moore | Tristan Snowsill</title>
-    <link>/author/j-moore/</link>
-      <atom:link href="/author/j-moore/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tristansnowsill.co.uk/author/j-moore/</link>
+      <atom:link href="https://www.tristansnowsill.co.uk/author/j-moore/index.xml" rel="self" type="application/rss+xml" />
     <description>J Moore</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>J Moore</title>
-      <link>/author/j-moore/</link>
+      <link>https://www.tristansnowsill.co.uk/author/j-moore/</link>
     </image>
     
     <item>
       <title>Immunosuppressive agents in adult kidney transplantation in the National Health Service: A model-based economic evaluation</title>
-      <link>/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunosuppressive therapy for kidney transplantation in adults: a systematic review and economic model</title>
-      <link>/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunosuppressive therapy for renal transplantation in adults: a systematic review and network meta-analyses.</title>
-      <link>/publication/haasova-2016-immunosuppressive-therapy-for-renal-transplantation-in-adults/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-renal-transplantation-in-adults/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/haasova-2016-immunosuppressive-therapy-for-renal-transplantation-in-adults/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-renal-transplantation-in-adults/</guid>
       <description></description>
     </item>
     

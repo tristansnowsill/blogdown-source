@@ -2,29 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lynch syndrome | Tristan Snowsill</title>
-    <link>/tag/lynch-syndrome/</link>
-      <atom:link href="/tag/lynch-syndrome/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tristansnowsill.co.uk/tag/lynch-syndrome/</link>
+      <atom:link href="https://www.tristansnowsill.co.uk/tag/lynch-syndrome/index.xml" rel="self" type="application/rss+xml" />
     <description>Lynch syndrome</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 30 May 2020 12:16:49 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Lynch syndrome</title>
-      <link>/tag/lynch-syndrome/</link>
+      <link>https://www.tristansnowsill.co.uk/tag/lynch-syndrome/</link>
     </image>
     
     <item>
       <title>Cost-effectiveness of the Manchester approach to identifying Lynch syndrome in women with endometrial cancer</title>
-      <link>/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</link>
       <pubDate>Sat, 30 May 2020 12:16:49 +0000</pubDate>
-      <guid>/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The predicted impact and cost-effectiveness of systematic testing of people with incident colorectal cancer for Lynch syndrome</title>
+      <link>https://www.tristansnowsill.co.uk/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Manchester International Consensus Group recommendations for the management of gynecological cancers in Lynch syndrome</title>
+      <link>https://www.tristansnowsill.co.uk/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-effectiveness analysis of reflex testing for Lynch syndrome in women with endometrial cancer in the UK setting</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review of test accuracy studies evaluating molecular micro-satellite instability testing for the detection of individuals with lynch syndrome</title>
+      <link>https://www.tristansnowsill.co.uk/publication/coelho-2017-a-systematic-review-of-test-accuracy-studies/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/coelho-2017-a-systematic-review-of-test-accuracy-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular testing for Lynch syndrome in people with colorectal cancer: Systematic reviews and economic evaluation</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model-based assessment of the cost-utility of strategies to identify Lynch syndrome in early-onset colorectal cancer patients</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review and economic evaluation of diagnostic strategies for Lynch syndrome</title>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COST-EFFECTIVENESS OF SYSTEMATIC TESTING FOR LYNCH SYNDROME IN PATIENTS NEWLY DIAGNOSED WITH COLORECTAL CANCER IN THE UNITED KINGDOM</title>
-      <link>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</guid>
       <description></description>
     </item>
     

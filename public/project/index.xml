@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Tristan Snowsill</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tristansnowsill.co.uk/project/</link>
+      <atom:link href="https://www.tristansnowsill.co.uk/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 30 May 2020 13:55:18 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://www.tristansnowsill.co.uk/project/</link>
     </image>
     
     <item>
       <title>A Trial of physical Activity assisted Reduction of Smoking (TARS)</title>
-      <link>/project/tars/</link>
+      <link>https://www.tristansnowsill.co.uk/project/tars/</link>
       <pubDate>Sat, 30 May 2020 13:55:18 +0100</pubDate>
-      <guid>/project/tars/</guid>
+      <guid>https://www.tristansnowsill.co.uk/project/tars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advances in health economic modelling</title>
-      <link>/project/advances-in-modelling/</link>
+      <link>https://www.tristansnowsill.co.uk/project/advances-in-modelling/</link>
       <pubDate>Sat, 30 May 2020 10:30:00 +0000</pubDate>
-      <guid>/project/advances-in-modelling/</guid>
+      <guid>https://www.tristansnowsill.co.uk/project/advances-in-modelling/</guid>
       <description>&lt;p&gt;I have a longstanding interest in methodological developments in health economic modelling. This project collects these and points to any relevant publications.&lt;/p&gt;
 &lt;h2 id=&#34;sojourn-dependent-transitions&#34;&gt;Sojourn-dependent transitions&lt;/h2&gt;
 &lt;p&gt;Markov models are extremely common in economic evaluation, but they have a structural limitation which means it is not possible to know the sojourn time in each state (time spent in that state) and use this to determine the rate of transitions to other states.&lt;/p&gt;
 &lt;p&gt;A typical workaround is to use tunnel states, but this is not without drawbacks.&lt;/p&gt;
 &lt;p&gt;I devised a method for calculating expected discounted outcomes when transitions between states are governed by sojourn-dependent time to event distributions. The method uses moment-generating functions and was presented at the Health Economists&amp;rsquo; Study Group in Bristol (Summer 2018) and 
-&lt;a href=&#34;/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/&#34;&gt;published in Medical Decision Making&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.tristansnowsill.co.uk/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/&#34;&gt;published in Medical Decision Making&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;probabilistic-sensitivity-analysis&#34;&gt;Probabilistic sensitivity analysis&lt;/h2&gt;
 &lt;p&gt;Probabilistic sensitivity analysis is a way to understand how uncertainty in model parameters translates into uncertainty about what decision to make. It also underpins value of information analyses.&lt;/p&gt;
 &lt;p&gt;I have submitted an abstract to the 
@@ -41,9 +41,9 @@
     
     <item>
       <title>REACT</title>
-      <link>/project/react/</link>
+      <link>https://www.tristansnowsill.co.uk/project/react/</link>
       <pubDate>Sat, 30 May 2020 10:00:00 +0000</pubDate>
-      <guid>/project/react/</guid>
+      <guid>https://www.tristansnowsill.co.uk/project/react/</guid>
       <description></description>
     </item>
     

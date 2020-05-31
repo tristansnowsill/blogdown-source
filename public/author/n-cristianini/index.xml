@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N Cristianini | Tristan Snowsill</title>
-    <link>/author/n-cristianini/</link>
-      <atom:link href="/author/n-cristianini/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tristansnowsill.co.uk/author/n-cristianini/</link>
+      <atom:link href="https://www.tristansnowsill.co.uk/author/n-cristianini/index.xml" rel="self" type="application/rss+xml" />
     <description>N Cristianini</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>N Cristianini</title>
-      <link>/author/n-cristianini/</link>
+      <link>https://www.tristansnowsill.co.uk/author/n-cristianini/</link>
     </image>
     
     <item>
       <title>Refining causality: Who copied from whom?</title>
-      <link>/publication/snowsill-2011-refining-causality-who-copied-from-whom/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2011-refining-causality-who-copied-from-whom/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2011-refining-causality-who-copied-from-whom/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2011-refining-causality-who-copied-from-whom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NOAM: News outlets analysis and monitoring system</title>
-      <link>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finding surprising patterns in textual data streams</title>
-      <link>/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting events in a million New York times articles</title>
-      <link>/publication/snowsill-2010-detecting-events-in-a-million-new-york-times-articles/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2010-detecting-events-in-a-million-new-york-times-articles/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2010-detecting-events-in-a-million-new-york-times-articles/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2010-detecting-events-in-a-million-new-york-times-articles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Found in translation</title>
-      <link>/publication/turchi-2009-found-in-translation/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/turchi-2009-found-in-translation/</link>
       <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/turchi-2009-found-in-translation/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/turchi-2009-found-in-translation/</guid>
       <description></description>
     </item>
     

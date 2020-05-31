@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MR Mota | Tristan Snowsill</title>
-    <link>/author/mr-mota/</link>
-      <atom:link href="/author/mr-mota/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tristansnowsill.co.uk/author/mr-mota/</link>
+      <atom:link href="https://www.tristansnowsill.co.uk/author/mr-mota/index.xml" rel="self" type="application/rss+xml" />
     <description>MR Mota</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>MR Mota</title>
-      <link>/author/mr-mota/</link>
+      <link>https://www.tristansnowsill.co.uk/author/mr-mota/</link>
     </image>
     
     <item>
       <title>AZACITIDINE FOR TREATING ACUTE MYELOID LEUKAEMIA: A NICE SINGLE TECHNOLOGY APPRAISAL</title>
-      <link>/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MODEL-BASED COST-UTILITY ANALYSIS OF ERYTHROPOIESIS-STIMULATING AGENTS FOR THE TREATMENT OF CANCER-TREATMENT INDUCED ANAEMIA IN THE UK NHS</title>
-      <link>/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</guid>
       <description></description>
     </item>
     

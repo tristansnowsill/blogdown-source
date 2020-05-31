@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tristan Snowsill</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tristansnowsill.co.uk/</link>
+      <atom:link href="https://www.tristansnowsill.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <description>Tristan Snowsill</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tristan Snowsill</title>
-      <link>/</link>
+      <link>https://www.tristansnowsill.co.uk/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://www.tristansnowsill.co.uk/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://www.tristansnowsill.co.uk/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://www.tristansnowsill.co.uk/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://www.tristansnowsill.co.uk/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://www.tristansnowsill.co.uk/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
+      <guid>https://www.tristansnowsill.co.uk/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,17 +78,17 @@
     
     <item>
       <title>Handsearching had best recall but poor efficiency when exporting to a bibliographic tool: case study</title>
-      <link>/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wait, I can blog in R?</title>
-      <link>/post/2020-05-30-wait-i-can-blog-in-r/</link>
+      <link>https://www.tristansnowsill.co.uk/post/2020-05-30-wait-i-can-blog-in-r/</link>
       <pubDate>Sat, 30 May 2020 14:27:00 +0000</pubDate>
-      <guid>/post/2020-05-30-wait-i-can-blog-in-r/</guid>
+      <guid>https://www.tristansnowsill.co.uk/post/2020-05-30-wait-i-can-blog-in-r/</guid>
       <description>&lt;/p&gt;
 &lt;p&gt;This feels pretty powerful.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;storms %&amp;gt;%
@@ -98,7 +98,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#lrxannlixe .gt_table {
+#gvvhbixavt .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -121,7 +121,7 @@
   border-left-color: #D3D3D3;
 }
 
-#lrxannlixe .gt_heading {
+#gvvhbixavt .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -133,7 +133,7 @@
   border-right-color: #D3D3D3;
 }
 
-#lrxannlixe .gt_title {
+#gvvhbixavt .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -143,7 +143,7 @@
   border-bottom-width: 0;
 }
 
-#lrxannlixe .gt_subtitle {
+#gvvhbixavt .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -153,13 +153,13 @@
   border-top-width: 0;
 }
 
-#lrxannlixe .gt_bottom_border {
+#gvvhbixavt .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#lrxannlixe .gt_col_headings {
+#gvvhbixavt .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -174,7 +174,7 @@
   border-right-color: #D3D3D3;
 }
 
-#lrxannlixe .gt_col_heading {
+#gvvhbixavt .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -194,7 +194,7 @@
   overflow-x: hidden;
 }
 
-#lrxannlixe .gt_column_spanner_outer {
+#gvvhbixavt .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -206,15 +206,15 @@
   padding-right: 4px;
 }
 
-#lrxannlixe .gt_column_spanner_outer:first-child {
+#gvvhbixavt .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#lrxannlixe .gt_column_spanner_outer:last-child {
+#gvvhbixavt .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#lrxannlixe .gt_column_spanner {
+#gvvhbixavt .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -226,7 +226,7 @@
   width: 100%;
 }
 
-#lrxannlixe .gt_group_heading {
+#gvvhbixavt .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -248,7 +248,7 @@
   vertical-align: middle;
 }
 
-#lrxannlixe .gt_empty_group_heading {
+#gvvhbixavt .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -263,19 +263,19 @@
   vertical-align: middle;
 }
 
-#lrxannlixe .gt_striped {
+#gvvhbixavt .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#lrxannlixe .gt_from_md &gt; :first-child {
+#gvvhbixavt .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#lrxannlixe .gt_from_md &gt; :last-child {
+#gvvhbixavt .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#lrxannlixe .gt_row {
+#gvvhbixavt .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -294,7 +294,7 @@
   overflow-x: hidden;
 }
 
-#lrxannlixe .gt_stub {
+#gvvhbixavt .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -306,7 +306,7 @@
   padding-left: 12px;
 }
 
-#lrxannlixe .gt_summary_row {
+#gvvhbixavt .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -316,7 +316,7 @@
   padding-right: 5px;
 }
 
-#lrxannlixe .gt_first_summary_row {
+#gvvhbixavt .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -326,7 +326,7 @@
   border-top-color: #D3D3D3;
 }
 
-#lrxannlixe .gt_grand_summary_row {
+#gvvhbixavt .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -336,7 +336,7 @@
   padding-right: 5px;
 }
 
-#lrxannlixe .gt_first_grand_summary_row {
+#gvvhbixavt .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -346,7 +346,7 @@
   border-top-color: #D3D3D3;
 }
 
-#lrxannlixe .gt_table_body {
+#gvvhbixavt .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -355,7 +355,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#lrxannlixe .gt_footnotes {
+#gvvhbixavt .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -369,13 +369,13 @@
   border-right-color: #D3D3D3;
 }
 
-#lrxannlixe .gt_footnote {
+#gvvhbixavt .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#lrxannlixe .gt_sourcenotes {
+#gvvhbixavt .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -389,46 +389,46 @@
   border-right-color: #D3D3D3;
 }
 
-#lrxannlixe .gt_sourcenote {
+#gvvhbixavt .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#lrxannlixe .gt_left {
+#gvvhbixavt .gt_left {
   text-align: left;
 }
 
-#lrxannlixe .gt_center {
+#gvvhbixavt .gt_center {
   text-align: center;
 }
 
-#lrxannlixe .gt_right {
+#gvvhbixavt .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#lrxannlixe .gt_font_normal {
+#gvvhbixavt .gt_font_normal {
   font-weight: normal;
 }
 
-#lrxannlixe .gt_font_bold {
+#gvvhbixavt .gt_font_bold {
   font-weight: bold;
 }
 
-#lrxannlixe .gt_font_italic {
+#gvvhbixavt .gt_font_italic {
   font-style: italic;
 }
 
-#lrxannlixe .gt_super {
+#gvvhbixavt .gt_super {
   font-size: 65%;
 }
 
-#lrxannlixe .gt_footnote_marks {
+#gvvhbixavt .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;lrxannlixe&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;gvvhbixavt&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   
   &lt;thead class=&#34;gt_col_headings&#34;&gt;
     &lt;tr&gt;
@@ -490,37 +490,37 @@
   geom_bar() +
   labs(x = &amp;quot;Year&amp;quot;, y = &amp;quot;Number of storms&amp;quot;, fill = &amp;quot;Category&amp;quot;) +
   theme_minimal()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-05-30-wait-i-can-blog-in-r_files/figure-html/plot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.tristansnowsill.co.uk/post/2020-05-30-wait-i-can-blog-in-r_files/figure-html/plot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Trial of physical Activity assisted Reduction of Smoking (TARS)</title>
-      <link>/project/tars/</link>
+      <link>https://www.tristansnowsill.co.uk/project/tars/</link>
       <pubDate>Sat, 30 May 2020 13:55:18 +0100</pubDate>
-      <guid>/project/tars/</guid>
+      <guid>https://www.tristansnowsill.co.uk/project/tars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cost-effectiveness of the Manchester approach to identifying Lynch syndrome in women with endometrial cancer</title>
-      <link>/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</link>
       <pubDate>Sat, 30 May 2020 12:16:49 +0000</pubDate>
-      <guid>/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2020-cost-effectiveness-of-the-manchester-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advances in health economic modelling</title>
-      <link>/project/advances-in-modelling/</link>
+      <link>https://www.tristansnowsill.co.uk/project/advances-in-modelling/</link>
       <pubDate>Sat, 30 May 2020 10:30:00 +0000</pubDate>
-      <guid>/project/advances-in-modelling/</guid>
+      <guid>https://www.tristansnowsill.co.uk/project/advances-in-modelling/</guid>
       <description>&lt;p&gt;I have a longstanding interest in methodological developments in health economic modelling. This project collects these and points to any relevant publications.&lt;/p&gt;
 &lt;h2 id=&#34;sojourn-dependent-transitions&#34;&gt;Sojourn-dependent transitions&lt;/h2&gt;
 &lt;p&gt;Markov models are extremely common in economic evaluation, but they have a structural limitation which means it is not possible to know the sojourn time in each state (time spent in that state) and use this to determine the rate of transitions to other states.&lt;/p&gt;
 &lt;p&gt;A typical workaround is to use tunnel states, but this is not without drawbacks.&lt;/p&gt;
 &lt;p&gt;I devised a method for calculating expected discounted outcomes when transitions between states are governed by sojourn-dependent time to event distributions. The method uses moment-generating functions and was presented at the Health Economists&amp;rsquo; Study Group in Bristol (Summer 2018) and 
-&lt;a href=&#34;/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/&#34;&gt;published in Medical Decision Making&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.tristansnowsill.co.uk/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/&#34;&gt;published in Medical Decision Making&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;probabilistic-sensitivity-analysis&#34;&gt;Probabilistic sensitivity analysis&lt;/h2&gt;
 &lt;p&gt;Probabilistic sensitivity analysis is a way to understand how uncertainty in model parameters translates into uncertainty about what decision to make. It also underpins value of information analyses.&lt;/p&gt;
 &lt;p&gt;I have submitted an abstract to the 
@@ -531,17 +531,17 @@
     
     <item>
       <title>REACT</title>
-      <link>/project/react/</link>
+      <link>https://www.tristansnowsill.co.uk/project/react/</link>
       <pubDate>Sat, 30 May 2020 10:00:00 +0000</pubDate>
-      <guid>/project/react/</guid>
+      <guid>https://www.tristansnowsill.co.uk/project/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People are nice</title>
-      <link>/post/people-are-nice/</link>
+      <link>https://www.tristansnowsill.co.uk/post/people-are-nice/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/people-are-nice/</guid>
+      <guid>https://www.tristansnowsill.co.uk/post/people-are-nice/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I&amp;#39;d like to say a big thank you to everyone who got in touch with messages of support yesterday on Twitter and elsewhere.&lt;br&gt;&lt;br&gt;You are all amazing and so caring and exactly the sorts of people I want to have as friends and colleagues.&lt;br&gt;&lt;br&gt;I&amp;#39;m feeling a little better today.&lt;/p&gt;&amp;mdash; Tristan Snowsill (@TMSnowsill) &lt;a href=&#34;https://twitter.com/TMSnowsill/status/1266253009656311816?ref_src=twsrc%5Etfw&#34;&gt;May 29, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
@@ -550,49 +550,49 @@
     
     <item>
       <title>The Tribulations of Trials: Lessons Learnt Recruiting 777 Older Adults Into REtirement in ACTion (REACT), a Trial of a Community, Group-Based Active Aging Intervention Targeting Mobility Disability</title>
-      <link>/publication/withall-2020-the-tribulations-of-trials/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/withall-2020-the-tribulations-of-trials/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/withall-2020-the-tribulations-of-trials/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/withall-2020-the-tribulations-of-trials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The predicted impact and cost-effectiveness of systematic testing of people with incident colorectal cancer for Lynch syndrome</title>
-      <link>/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Manchester International Consensus Group recommendations for the management of gynecological cancers in Lynch syndrome</title>
-      <link>/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A New Method for Model-Based Health Economic Evaluation Utilizing and Extending Moment-Generating Functions</title>
-      <link>/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Three biomarker tests to help diagnose preterm labour: a systematic review and economic evaluation</title>
-      <link>/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://www.tristansnowsill.co.uk/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://www.tristansnowsill.co.uk/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -724,243 +724,225 @@ Three
     
     <item>
       <title>Cost-effectiveness analysis of reflex testing for Lynch syndrome in women with endometrial cancer in the UK setting</title>
-      <link>/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2019-cost-effectiveness-analysis-of-reflex-testing-for-lynch-syndrome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do we know enough about the effect of low-dose computed tomography screening for lung cancer on survival to act? A systematic review, meta-analysis and network meta-analysis of randomised controlled trials.</title>
-      <link>/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-dose computed tomography for lung cancer screening in high-risk populations: A systematic review and economic evaluation</title>
-      <link>/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BIOMARKER TESTS TO HELP DIAGNOSE PRETERM LABOUR IN SYMPTOMATIC WOMEN WITH INTACT MEMBRANES: A SYSTEMATIC REVIEW</title>
-      <link>/publication/barnish-2018-biomarker-tests-to-help-diagnose-preterm-labour/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/barnish-2018-biomarker-tests-to-help-diagnose-preterm-labour/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/barnish-2018-biomarker-tests-to-help-diagnose-preterm-labour/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/barnish-2018-biomarker-tests-to-help-diagnose-preterm-labour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Economic Analysis of First-Line Treatment with Cetuximab or Panitumumab for RAS Wild-Type Metastatic Colorectal Cancer in England</title>
-      <link>/publication/tikhonova-2018-economic-analysis-of-first-line-treatment-with-cetuximab/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/tikhonova-2018-economic-analysis-of-first-line-treatment-with-cetuximab/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/tikhonova-2018-economic-analysis-of-first-line-treatment-with-cetuximab/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/tikhonova-2018-economic-analysis-of-first-line-treatment-with-cetuximab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A systematic review of test accuracy studies evaluating molecular micro-satellite instability testing for the detection of individuals with lynch syndrome</title>
-      <link>/publication/coelho-2017-a-systematic-review-of-test-accuracy-studies/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/coelho-2017-a-systematic-review-of-test-accuracy-studies/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/coelho-2017-a-systematic-review-of-test-accuracy-studies/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/coelho-2017-a-systematic-review-of-test-accuracy-studies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular testing for Lynch syndrome in people with colorectal cancer: Systematic reviews and economic evaluation</title>
-      <link>/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2017-molecular-testing-for-lynch-syndrome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunosuppressive agents in adult kidney transplantation in the National Health Service: A model-based economic evaluation</title>
-      <link>/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azacitidine for Treating Acute Myeloid Leukaemia with More Than 30 % Bone Marrow Blasts: An Evidence Review Group Perspective of a National Institute for Health and Care Excellence Single Technology Appraisal</title>
-      <link>/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The clinical effectiveness and cost-effectiveness of cetuximab (review of technology appraisal no. 176) and panitumumab (partial review of technology appraisal no. 240) for previously untreated metastatic colorectal cancer: A systematic review and economic evaluation</title>
-      <link>/publication/huxley-2017-the-clinical-effectiveness-and-cost-effectiveness-of-cetuximab/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/huxley-2017-the-clinical-effectiveness-and-cost-effectiveness-of-cetuximab/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/huxley-2017-the-clinical-effectiveness-and-cost-effectiveness-of-cetuximab/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/huxley-2017-the-clinical-effectiveness-and-cost-effectiveness-of-cetuximab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AZACITIDINE FOR TREATING ACUTE MYELOID LEUKAEMIA: A NICE SINGLE TECHNOLOGY APPRAISAL</title>
-      <link>/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunosuppressive therapy for kidney transplantation in adults: a systematic review and economic model</title>
-      <link>/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunosuppressive therapy for kidney transplantation in children and adolescents: Systematic review and economic evaluation</title>
-      <link>/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COST EFFECTIVENESS OF CETUXIMAB AND PANITUMUMAB FOR FIRST-LINE RAS WT METASTATIC COLORECAL CANCER</title>
-      <link>/publication/tikhonova-2016-cost-effectiveness-of-cetuximab-and-panitumumab/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/tikhonova-2016-cost-effectiveness-of-cetuximab-and-panitumumab/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/tikhonova-2016-cost-effectiveness-of-cetuximab-and-panitumumab/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/tikhonova-2016-cost-effectiveness-of-cetuximab-and-panitumumab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effectiveness and cost-effectiveness of erythropoiesis-stimulating agents (epoetin and darbepoetin) for treating cancer treatment-induced anaemia (including review of technology appraisal no. 142): A systematic review and economic model</title>
-      <link>/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunosuppressive therapy for renal transplantation in adults: a systematic review and network meta-analyses.</title>
-      <link>/publication/haasova-2016-immunosuppressive-therapy-for-renal-transplantation-in-adults/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-renal-transplantation-in-adults/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/haasova-2016-immunosuppressive-therapy-for-renal-transplantation-in-adults/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-renal-transplantation-in-adults/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A model-based assessment of the cost-utility of strategies to identify Lynch syndrome in early-onset colorectal cancer patients</title>
-      <link>/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systematic review and economic evaluation of intraoperative tests [RD-100i one-step nucleic acid amplification (OSNA) system and Metasin test] for detecting sentinel lymph node metastases in breast cancer.</title>
-      <link>/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MODEL-BASED COST-UTILITY ANALYSIS OF ERYTHROPOIESIS-STIMULATING AGENTS FOR THE TREATMENT OF CANCER-TREATMENT INDUCED ANAEMIA IN THE UK NHS</title>
-      <link>/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2014-model-based-cost-utility-analysis-of-erythropoiesis-stimulating-agents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1498P WHAT IS THE CLINICAL EFFECTIVENESS OF ERYTHROPOIESIS STIMULATING AGENTS FOR THE TREATMENT OF CANCER TREATMENT-INDUCED ANAEMIA?</title>
-      <link>/publication/crathorne-2014-what-is-the-clinical-effectiveness-of-erythropoiesis/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/crathorne-2014-what-is-the-clinical-effectiveness-of-erythropoiesis/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/crathorne-2014-what-is-the-clinical-effectiveness-of-erythropoiesis/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/crathorne-2014-what-is-the-clinical-effectiveness-of-erythropoiesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A COST-EFFECTIVENESS ANALYSIS OF ERYTHROPOIESIS-STIMULATING AGENTS FOR TREATING CANCER-TREATMENT INDUCED ANAEMIA</title>
-      <link>/publication/huxley-2014-a-cost-effectiveness-analysis-of-erythropoiesis-stimulating/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/huxley-2014-a-cost-effectiveness-analysis-of-erythropoiesis-stimulating/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/huxley-2014-a-cost-effectiveness-analysis-of-erythropoiesis-stimulating/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/huxley-2014-a-cost-effectiveness-analysis-of-erythropoiesis-stimulating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systematic review and economic evaluation of diagnostic strategies for Lynch syndrome</title>
-      <link>/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COST-EFFECTIVENESS OF SYSTEMATIC TESTING FOR LYNCH SYNDROME IN PATIENTS NEWLY DIAGNOSED WITH COLORECTAL CANCER IN THE UNITED KINGDOM</title>
-      <link>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refining causality: Who copied from whom?</title>
-      <link>/publication/snowsill-2011-refining-causality-who-copied-from-whom/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2011-refining-causality-who-copied-from-whom/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2011-refining-causality-who-copied-from-whom/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2011-refining-causality-who-copied-from-whom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NOAM: News outlets analysis and monitoring system</title>
-      <link>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finding surprising patterns in textual data streams</title>
-      <link>/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting events in a million New York times articles</title>
-      <link>/publication/snowsill-2010-detecting-events-in-a-million-new-york-times-articles/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2010-detecting-events-in-a-million-new-york-times-articles/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2010-detecting-events-in-a-million-new-york-times-articles/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2010-detecting-events-in-a-million-new-york-times-articles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Found in translation</title>
-      <link>/publication/turchi-2009-found-in-translation/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/turchi-2009-found-in-translation/</link>
       <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/turchi-2009-found-in-translation/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/turchi-2009-found-in-translation/</guid>
       <description></description>
     </item>
     

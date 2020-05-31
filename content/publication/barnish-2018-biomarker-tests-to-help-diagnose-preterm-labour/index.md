@@ -9,5 +9,7 @@ featured: false
 publication: "*JOURNAL OF EPIDEMIOLOGY AND COMMUNITY HEALTH*"
 url_pdf: "http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&KeyUT=WOS:000445173400119&DestLinkType=FullRecord&DestApp=ALL_WOS&UsrCustomerID=0326ddbefd13eaffce8024ca57cffb07"
 doi: "10.1136/jech-2018-SSMabstracts.118"
+tags:
+- Diagnostic tests
 ---
 

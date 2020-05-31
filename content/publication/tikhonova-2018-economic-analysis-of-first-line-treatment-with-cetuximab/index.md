@@ -8,5 +8,8 @@ abstract: "Background: Combination therapies with cetuximab (Erbitux®; Merck Se
 featured: false
 publication: "*PharmacoEconomics*"
 doi: "10.1007/s40273-018-0630-9"
+tags:
+- Economic evaluation
+- Health economic modelling
 ---
 

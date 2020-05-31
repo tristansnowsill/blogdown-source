@@ -8,5 +8,9 @@ abstract: "Background: Diagnosis of lung cancer frequently occurs in its later s
 featured: false
 publication: "*Health Technology Assessment*"
 doi: "10.3310/hta22690"
+tags:
+- Economic evaluation
+- Health economic modelling
+- Cancer screening
 ---
 

@@ -8,5 +8,10 @@ abstract: "Background: Inherited mutations in deoxyribonucleic acid (DNA) mismat
 featured: false
 publication: "*Health Technology Assessment*"
 doi: "10.3310/hta21510"
+tags:
+- Economic evaluation
+- Health economic modelling
+- Lynch syndrome
+- Diagnostic tests
 ---
 

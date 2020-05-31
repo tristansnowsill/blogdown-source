@@ -8,5 +8,8 @@ abstract: "Background: Colorectal cancer is the fourth most commonly diagnosed c
 featured: false
 publication: "*Health Technology Assessment*"
 doi: "10.3310/hta21380"
+tags:
+- Economic evaluation
+- Health economic modelling
 ---
 

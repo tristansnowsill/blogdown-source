@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S Robinson | Tristan Snowsill</title>
-    <link>/author/s-robinson/</link>
-      <atom:link href="/author/s-robinson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tristansnowsill.co.uk/author/s-robinson/</link>
+      <atom:link href="https://www.tristansnowsill.co.uk/author/s-robinson/index.xml" rel="self" type="application/rss+xml" />
     <description>S Robinson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>S Robinson</title>
-      <link>/author/s-robinson/</link>
+      <link>https://www.tristansnowsill.co.uk/author/s-robinson/</link>
     </image>
     
     <item>
       <title>Do we know enough about the effect of low-dose computed tomography screening for lung cancer on survival to act? A systematic review, meta-analysis and network meta-analysis of randomised controlled trials.</title>
-      <link>/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-dose computed tomography for lung cancer screening in high-risk populations: A systematic review and economic evaluation</title>
-      <link>/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</guid>
       <description></description>
     </item>
     
