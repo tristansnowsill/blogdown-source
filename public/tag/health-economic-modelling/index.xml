@@ -7,7 +7,7 @@
     <description>Health economic modelling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 30 May 2020 13:55:18 +0100</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>Health economic modelling</title>
       <link>https://www.tristansnowsill.co.uk/tag/health-economic-modelling/</link>
     </image>
@@ -39,11 +39,11 @@
 &lt;p&gt;A typical workaround is to use tunnel states, but this is not without drawbacks.&lt;/p&gt;
 &lt;p&gt;I devised a method for calculating expected discounted outcomes when transitions between states are governed by sojourn-dependent time to event distributions. The method uses moment-generating functions and was presented at the Health Economists&amp;rsquo; Study Group in Bristol (Summer 2018) and 
 &lt;a href=&#34;https://www.tristansnowsill.co.uk/publication/snowsill-2019-a-new-method-for-model-based-health-economic-evaluation/&#34;&gt;published in Medical Decision Making&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have submitted a further development in this area to Medical Decision Making, which I presented at the South West Health Economists Meeting 2019.&lt;/p&gt;
 &lt;h2 id=&#34;probabilistic-sensitivity-analysis&#34;&gt;Probabilistic sensitivity analysis&lt;/h2&gt;
 &lt;p&gt;Probabilistic sensitivity analysis is a way to understand how uncertainty in model parameters translates into uncertainty about what decision to make. It also underpins value of information analyses.&lt;/p&gt;
 &lt;p&gt;I have submitted an abstract to the 
 &lt;a href=&#34;https://smdm.org/meeting/42nd-annual-north-american-meeting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMDM 42nd Annual North American meeting (October 2020)&lt;/a&gt; describing a new method for propagating uncertainty through a decision model and conducting probabilistic sensitivity analysis.&lt;/p&gt;
-&lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt;
 </description>
     </item>
     
