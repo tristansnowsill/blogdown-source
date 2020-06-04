@@ -5,12 +5,468 @@
     <link>https://www.tristansnowsill.co.uk/post/</link>
       <atom:link href="https://www.tristansnowsill.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://www.tristansnowsill.co.uk/post/</link>
     </image>
+    
+    <item>
+      <title>What could 50,000 voters achieve?</title>
+      <link>https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/</guid>
+      <description>
+
+
+&lt;p&gt;{{&amp;lt; tweet 1267876609559867394 &amp;gt;}}
+{{&amp;lt; tweet 1267882105230569473 &amp;gt;}}
+{{&amp;lt; tweet 1267883942897766401 &amp;gt;}}&lt;/p&gt;
+&lt;p&gt;The death toll from COVID-19 in the UK has passed 50,000. This is a tragedy
+that is hard to comprehend.&lt;/p&gt;
+&lt;p&gt;You can picture a large football stadium full to the rafters:&lt;/p&gt;
+&lt;p&gt;{{&amp;lt; figure src=“Etihad_Stadium.jpg” title=“Manchester City Etihad Stadium (capacity 55,097) [CC-BY Cléria De Souza]” lightbox=“true” &amp;gt;}}&lt;/p&gt;
+&lt;p&gt;Or you can picture 50 secondary schools or 500 orchestras.&lt;/p&gt;
+&lt;p&gt;I wondered out of interest what political power 50,000 people could have.&lt;/p&gt;
+&lt;p&gt;It turns out that if you take the 2019 UK General Election results and swing
+50,000 Conservative voters in precisely chosen constituencies to the
+second-place party, 52 Conservative MPs would lose their seats.&lt;/p&gt;
+&lt;p&gt;Here is the current political map:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/index_files/figure-html/Current%20map-1.png&#34; width=&#34;480&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Here is what it looks like in the scenario described:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/index_files/figure-html/Scenario%201-1.png&#34; width=&#34;480&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In this scenario 39 seats flip to Labour (now at 241), 9 flip to the Liberal
+Democrats (now at 20) and 4 flip to the SNP (now at 52). There is a hung
+parliament with the Conservatives having 313 MPs. A rainbow coalition of
+Labour (241), SNP (52), Liberal Democrats (20), Plaid Cymru (4), SDLP (2),
+Green (1) and Alliance(1) has a total 321 votes. A Conservative (313) – DUP
+(8) coalition would also have 321 votes. A very hung parliament, with neither
+of those coalitions appearing easy to form.&lt;/p&gt;
+&lt;p&gt;An alternative scenario is that all Conservative supporters stick with the
+Conservatives, but 50,000 voters who did not vote Conservative in 2019 switch
+to vote tactically. In this scenario the Conservatives lose 38 seats (29 to
+Labour, 6 to Liberal Democrats and 3 to SNP).&lt;/p&gt;
+&lt;p&gt;The point here is not that these scenarios are likely. For one thing, we know
+that people who have died can no longer vote, let alone swing tactically. We
+also must not assume that just because COVID-19 is more likely to kill the
+elderly and that the elderly are more likely to vote Conservative that those
+killed are more likely to be Conservative voters, or have family who are.&lt;/p&gt;
+&lt;p&gt;Perhaps the point is simply that 50,000 voters out of a total electorate
+exceeding 47 million can have a disproportionate impact under first past the
+post, and politicians are more acutely aware of that than most.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wait, I can blog in R?</title>
+      <link>https://www.tristansnowsill.co.uk/post/2020-05-30-wait-i-can-blog-in-r/</link>
+      <pubDate>Sat, 30 May 2020 14:27:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/post/2020-05-30-wait-i-can-blog-in-r/</guid>
+      <description>&lt;/p&gt;
+&lt;p&gt;This feels pretty powerful.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;storms %&amp;gt;%
+  select(category) %&amp;gt;%
+  tbl_summary()&lt;/code&gt;&lt;/pre&gt;
+&lt;style&gt;html {
+  font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
+}
+
+#iwdxoekyuk .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#iwdxoekyuk .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#iwdxoekyuk .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#iwdxoekyuk .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 4px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#iwdxoekyuk .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#iwdxoekyuk .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#iwdxoekyuk .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#iwdxoekyuk .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#iwdxoekyuk .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#iwdxoekyuk .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#iwdxoekyuk .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#iwdxoekyuk .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#iwdxoekyuk .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#iwdxoekyuk .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#iwdxoekyuk .gt_from_md &gt; :first-child {
+  margin-top: 0;
+}
+
+#iwdxoekyuk .gt_from_md &gt; :last-child {
+  margin-bottom: 0;
+}
+
+#iwdxoekyuk .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#iwdxoekyuk .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#iwdxoekyuk .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#iwdxoekyuk .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#iwdxoekyuk .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#iwdxoekyuk .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#iwdxoekyuk .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#iwdxoekyuk .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#iwdxoekyuk .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#iwdxoekyuk .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#iwdxoekyuk .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#iwdxoekyuk .gt_left {
+  text-align: left;
+}
+
+#iwdxoekyuk .gt_center {
+  text-align: center;
+}
+
+#iwdxoekyuk .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#iwdxoekyuk .gt_font_normal {
+  font-weight: normal;
+}
+
+#iwdxoekyuk .gt_font_bold {
+  font-weight: bold;
+}
+
+#iwdxoekyuk .gt_font_italic {
+  font-style: italic;
+}
+
+#iwdxoekyuk .gt_super {
+  font-size: 65%;
+}
+
+#iwdxoekyuk .gt_footnote_marks {
+  font-style: italic;
+  font-size: 65%;
+}
+&lt;/style&gt;
+&lt;div id=&#34;iwdxoekyuk&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+  
+  &lt;thead class=&#34;gt_col_headings&#34;&gt;
+    &lt;tr&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_left&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;&lt;strong&gt;Characteristic&lt;/strong&gt;&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_center&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;&lt;strong&gt;N = 10010&lt;/strong&gt;&lt;sup class=&#34;gt_footnote_marks&#34;&gt;1&lt;/sup&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody class=&#34;gt_table_body&#34;&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;gt_row gt_left&#34;&gt;category&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_center&#34;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;gt_row gt_left&#34; style=&#34;text-align: left; text-indent: 10px;&#34;&gt;-1&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_center&#34;&gt;2545 (25%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;gt_row gt_left&#34; style=&#34;text-align: left; text-indent: 10px;&#34;&gt;0&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_center&#34;&gt;4373 (44%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;gt_row gt_left&#34; style=&#34;text-align: left; text-indent: 10px;&#34;&gt;1&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_center&#34;&gt;1685 (17%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;gt_row gt_left&#34; style=&#34;text-align: left; text-indent: 10px;&#34;&gt;2&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_center&#34;&gt;628 (6.3%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;gt_row gt_left&#34; style=&#34;text-align: left; text-indent: 10px;&#34;&gt;3&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_center&#34;&gt;363 (3.6%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;gt_row gt_left&#34; style=&#34;text-align: left; text-indent: 10px;&#34;&gt;4&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_center&#34;&gt;348 (3.5%)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;gt_row gt_left&#34; style=&#34;text-align: left; text-indent: 10px;&#34;&gt;5&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_center&#34;&gt;68 (0.7%)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  
+  &lt;tfoot&gt;
+    &lt;tr class=&#34;gt_footnotes&#34;&gt;
+      &lt;td colspan=&#34;2&#34;&gt;
+        &lt;p class=&#34;gt_footnote&#34;&gt;
+          &lt;sup class=&#34;gt_footnote_marks&#34;&gt;
+            &lt;em&gt;1&lt;/em&gt;
+          &lt;/sup&gt;
+           
+          Statistics presented: n (%)
+          &lt;br /&gt;
+        &lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;ggplot(storms %&amp;gt;% filter(category &amp;gt;= 0), aes(x = year, fill = category)) +
+  geom_bar() +
+  labs(x = &amp;quot;Year&amp;quot;, y = &amp;quot;Number of storms&amp;quot;, fill = &amp;quot;Category&amp;quot;) +
+  theme_minimal()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.tristansnowsill.co.uk/post/2020-05-30-wait-i-can-blog-in-r_files/figure-html/plot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>People are nice</title>
