@@ -1,0 +1,112 @@
+---
+title: "What could 50,000 voters achieve?"
+author: "Tristan Snowsill"
+date: "2020-06-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(parlitools)
+library(gt)
+party_colour_list <- party_colour %>% pmap(function(party_name, party_colour, ...) rlang::list2("{party_name}" := party_colour)) %>% flatten()
+```
+
+{{< tweet 1267876609559867394 >}}
+{{< tweet 1267882105230569473 >}}
+{{< tweet 1267883942897766401 >}}
+
+The death toll from COVID-19 in the UK has passed 50,000. This is a tragedy
+that is hard to comprehend.
+
+You can picture a large football stadium full to the rafters:
+
+{{< figure src="Etihad_Stadium.jpg" title="Manchester City Etihad Stadium (capacity 55,097) [CC-BY Cléria De Souza]" lightbox="true" >}}
+
+Or you can picture 50 secondary schools or 500 orchestras.
+
+I wondered out of interest what political power 50,000 people could have.
+
+It turns out that if you take the 2019 UK General Election results and swing
+50,000 Conservative voters in precisely chosen constituencies to the
+second-place party, 52 Conservative MPs would lose their seats.
+
+Here is the current political map:
+
+```{r Current map, fig.width=5, fig.height=8}
+west_hex_map %>%
+  left_join(bes_2019, by = c("gss_code" = "ons_const_id")) %>%
+  ggplot() +
+  geom_sf(aes(fill = winner_19), colour = NA) +
+  coord_sf() +
+  scale_fill_manual(values = party_colour_list, guide = FALSE) +
+  theme_minimal() +
+  theme(axis.text = element_blank(), panel.grid = element_blank())
+```
+
+Here is what it looks like in the scenario described:
+
+```{r Scenario 1, fig.width=5, fig.height=8}
+seats_to_flip <- bes_2019 %>%
+  filter(winner_19 == "Conservative") %>%
+  mutate(swing_voters_required = ceiling((majority_19 + 1) / 2)) %>%
+  arrange(swing_voters_required) %>%
+  mutate(cumulative_required = cumsum(swing_voters_required)) %>%
+  filter(cumulative_required <= 50000) %>%
+  pull(ons_const_id)
+runner_up <- bes_2019 %>%
+  pivot_longer(
+    cols = ends_with("_vote_19"),
+    names_pattern = "(.*)_vote_19",
+    names_to = "party",
+    values_to = "vote_19",
+    values_drop_na = TRUE
+  ) %>%
+  filter(party != "rejected", party != "total") %>%
+  group_by(ons_const_id) %>%
+  mutate(rank = min_rank(-vote_19)) %>%
+  filter(rank == 2) %>%
+  select(ons_const_id, runner_up_19 = party)
+party_map <- tibble(
+  shortname = c("alliance", "con", "dup", "green", "lab", "ld", "other", "pc", "sdlp", "sf", "snp"),
+  name = c("Alliance", "Conservative", "Democratic Unionist Party", "Green", "Labour", "Liberal Democrat", "Other", "Plaid Cymru", "Social Democratic & Labour Party", "Sinn Fein", "Scottish National Party")
+)
+runner_up <- runner_up %>%
+  left_join(party_map, by = c("runner_up_19" = "shortname")) %>%
+  select(ons_const_id, runner_up_19 = name)
+bes_2019_scenario1 <- bes_2019 %>%
+  left_join(runner_up, by = "ons_const_id") %>%
+  mutate(winner = if_else(ons_const_id %in% seats_to_flip, runner_up_19, winner_19))
+west_hex_map %>%
+  left_join(bes_2019_scenario1, by = c("gss_code" = "ons_const_id")) %>%
+  ggplot() +
+  geom_sf(aes(fill = winner), colour = NA) +
+  coord_sf() +
+  scale_fill_manual(values = party_colour_list, guide = FALSE) +
+  theme_minimal() +
+  theme(axis.text = element_blank(), panel.grid = element_blank())
+```
+
+In this scenario 39 seats flip to Labour (now at 241), 9 flip to the Liberal
+Democrats (now at 20) and 4 flip to the SNP (now at 52). There is a hung
+parliament with the Conservatives having 313 MPs. A rainbow coalition of
+Labour (241), SNP (52), Liberal Democrats (20), Plaid Cymru (4), SDLP (2),
+Green (1) and Alliance(1) has a total 321 votes. A Conservative (313) -- DUP
+(8) coalition would also have 321 votes. A very hung parliament, with neither
+of those coalitions appearing easy to form.
+
+An alternative scenario is that all Conservative supporters stick with the
+Conservatives, but 50,000 voters who did not vote Conservative in 2019 switch
+to vote tactically. In this scenario the Conservatives lose 38 seats (29 to
+Labour, 6 to Liberal Democrats and 3 to SNP).
+
+The point here is not that these scenarios are likely. For one thing, we know
+that people who have died can no longer vote, let alone swing tactically. We
+also must not assume that just because COVID-19 is more likely to kill the
+elderly and that the elderly are more likely to vote Conservative that those
+killed are more likely to be Conservative voters, or have family who are.
+
+Perhaps the point is simply that 50,000 voters out of a total electorate
+exceeding 47 million can have a disproportionate impact under first past the
+post, and politicians are more acutely aware of that than most.

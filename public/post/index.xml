@@ -5,12 +5,58 @@
     <link>https://www.tristansnowsill.co.uk/post/</link>
       <atom:link href="https://www.tristansnowsill.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 30 May 2020 14:27:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://www.tristansnowsill.co.uk/post/</link>
     </image>
+    
+    <item>
+      <title>What could 50,000 voters achieve?</title>
+      <link>https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/</guid>
+      <description>
+
+
+&lt;p&gt;{{&amp;lt; tweet 1267876609559867394 &amp;gt;}}
+{{&amp;lt; tweet 1267882105230569473 &amp;gt;}}
+{{&amp;lt; tweet 1267883942897766401 &amp;gt;}}&lt;/p&gt;
+&lt;p&gt;The death toll from COVID-19 in the UK has passed 50,000. This is a tragedy
+that is hard to comprehend.&lt;/p&gt;
+&lt;p&gt;You can picture a large football stadium full to the rafters:&lt;/p&gt;
+&lt;p&gt;{{&amp;lt; figure src=“Etihad_Stadium.jpg” title=“Manchester City Etihad Stadium (capacity 55,097) [CC-BY Cléria De Souza]” lightbox=“true” &amp;gt;}}&lt;/p&gt;
+&lt;p&gt;Or you can picture 50 secondary schools or 500 orchestras.&lt;/p&gt;
+&lt;p&gt;I wondered out of interest what political power 50,000 people could have.&lt;/p&gt;
+&lt;p&gt;It turns out that if you take the 2019 UK General Election results and swing
+50,000 Conservative voters in precisely chosen constituencies to the
+second-place party, 52 Conservative MPs would lose their seats.&lt;/p&gt;
+&lt;p&gt;Here is the current political map:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/index_files/figure-html/Current%20map-1.png&#34; width=&#34;480&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Here is what it looks like in the scenario described:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/index_files/figure-html/Scenario%201-1.png&#34; width=&#34;480&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In this scenario 39 seats flip to Labour (now at 241), 9 flip to the Liberal
+Democrats (now at 20) and 4 flip to the SNP (now at 52). There is a hung
+parliament with the Conservatives having 313 MPs. A rainbow coalition of
+Labour (241), SNP (52), Liberal Democrats (20), Plaid Cymru (4), SDLP (2),
+Green (1) and Alliance(1) has a total 321 votes. A Conservative (313) – DUP
+(8) coalition would also have 321 votes. A very hung parliament, with neither
+of those coalitions appearing easy to form.&lt;/p&gt;
+&lt;p&gt;An alternative scenario is that all Conservative supporters stick with the
+Conservatives, but 50,000 voters who did not vote Conservative in 2019 switch
+to vote tactically. In this scenario the Conservatives lose 38 seats (29 to
+Labour, 6 to Liberal Democrats and 3 to SNP).&lt;/p&gt;
+&lt;p&gt;The point here is not that these scenarios are likely. For one thing, we know
+that people who have died can no longer vote, let alone swing tactically. We
+also must not assume that just because COVID-19 is more likely to kill the
+elderly and that the elderly are more likely to vote Conservative that those
+killed are more likely to be Conservative voters, or have family who are.&lt;/p&gt;
+&lt;p&gt;Perhaps the point is simply that 50,000 voters out of a total electorate
+exceeding 47 million can have a disproportionate impact under first past the
+post, and politicians are more acutely aware of that than most.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Wait, I can blog in R?</title>
@@ -26,7 +72,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#wfkzrgjsdn .gt_table {
+#hobknjorhl .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -49,7 +95,7 @@
   border-left-color: #D3D3D3;
 }
 
-#wfkzrgjsdn .gt_heading {
+#hobknjorhl .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -61,7 +107,7 @@
   border-right-color: #D3D3D3;
 }
 
-#wfkzrgjsdn .gt_title {
+#hobknjorhl .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -71,7 +117,7 @@
   border-bottom-width: 0;
 }
 
-#wfkzrgjsdn .gt_subtitle {
+#hobknjorhl .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -81,13 +127,13 @@
   border-top-width: 0;
 }
 
-#wfkzrgjsdn .gt_bottom_border {
+#hobknjorhl .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#wfkzrgjsdn .gt_col_headings {
+#hobknjorhl .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -102,7 +148,7 @@
   border-right-color: #D3D3D3;
 }
 
-#wfkzrgjsdn .gt_col_heading {
+#hobknjorhl .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -122,7 +168,7 @@
   overflow-x: hidden;
 }
 
-#wfkzrgjsdn .gt_column_spanner_outer {
+#hobknjorhl .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -134,15 +180,15 @@
   padding-right: 4px;
 }
 
-#wfkzrgjsdn .gt_column_spanner_outer:first-child {
+#hobknjorhl .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#wfkzrgjsdn .gt_column_spanner_outer:last-child {
+#hobknjorhl .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#wfkzrgjsdn .gt_column_spanner {
+#hobknjorhl .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -154,7 +200,7 @@
   width: 100%;
 }
 
-#wfkzrgjsdn .gt_group_heading {
+#hobknjorhl .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -176,7 +222,7 @@
   vertical-align: middle;
 }
 
-#wfkzrgjsdn .gt_empty_group_heading {
+#hobknjorhl .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -191,19 +237,19 @@
   vertical-align: middle;
 }
 
-#wfkzrgjsdn .gt_striped {
+#hobknjorhl .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#wfkzrgjsdn .gt_from_md &gt; :first-child {
+#hobknjorhl .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#wfkzrgjsdn .gt_from_md &gt; :last-child {
+#hobknjorhl .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#wfkzrgjsdn .gt_row {
+#hobknjorhl .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -222,7 +268,7 @@
   overflow-x: hidden;
 }
 
-#wfkzrgjsdn .gt_stub {
+#hobknjorhl .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -234,7 +280,7 @@
   padding-left: 12px;
 }
 
-#wfkzrgjsdn .gt_summary_row {
+#hobknjorhl .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -244,7 +290,7 @@
   padding-right: 5px;
 }
 
-#wfkzrgjsdn .gt_first_summary_row {
+#hobknjorhl .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -254,7 +300,7 @@
   border-top-color: #D3D3D3;
 }
 
-#wfkzrgjsdn .gt_grand_summary_row {
+#hobknjorhl .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -264,7 +310,7 @@
   padding-right: 5px;
 }
 
-#wfkzrgjsdn .gt_first_grand_summary_row {
+#hobknjorhl .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -274,7 +320,7 @@
   border-top-color: #D3D3D3;
 }
 
-#wfkzrgjsdn .gt_table_body {
+#hobknjorhl .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -283,7 +329,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#wfkzrgjsdn .gt_footnotes {
+#hobknjorhl .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -297,13 +343,13 @@
   border-right-color: #D3D3D3;
 }
 
-#wfkzrgjsdn .gt_footnote {
+#hobknjorhl .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#wfkzrgjsdn .gt_sourcenotes {
+#hobknjorhl .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -317,46 +363,46 @@
   border-right-color: #D3D3D3;
 }
 
-#wfkzrgjsdn .gt_sourcenote {
+#hobknjorhl .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#wfkzrgjsdn .gt_left {
+#hobknjorhl .gt_left {
   text-align: left;
 }
 
-#wfkzrgjsdn .gt_center {
+#hobknjorhl .gt_center {
   text-align: center;
 }
 
-#wfkzrgjsdn .gt_right {
+#hobknjorhl .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#wfkzrgjsdn .gt_font_normal {
+#hobknjorhl .gt_font_normal {
   font-weight: normal;
 }
 
-#wfkzrgjsdn .gt_font_bold {
+#hobknjorhl .gt_font_bold {
   font-weight: bold;
 }
 
-#wfkzrgjsdn .gt_font_italic {
+#hobknjorhl .gt_font_italic {
   font-style: italic;
 }
 
-#wfkzrgjsdn .gt_super {
+#hobknjorhl .gt_super {
   font-size: 65%;
 }
 
-#wfkzrgjsdn .gt_footnote_marks {
+#hobknjorhl .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;wfkzrgjsdn&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;hobknjorhl&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   
   &lt;thead class=&#34;gt_col_headings&#34;&gt;
     &lt;tr&gt;
