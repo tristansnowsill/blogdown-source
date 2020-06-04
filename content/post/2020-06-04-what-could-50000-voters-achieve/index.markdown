@@ -8,7 +8,6 @@ output: html_document
 
 
 <!--html_preserve-->{{% tweet "1267876609559867394" %}}
-{{% tweet "1267882105230569473" %}}
 {{% tweet "1267883942897766401" %}}<!--/html_preserve-->
 
 The death toll from COVID-19 in the UK has passed 50,000. This is a tragedy
