@@ -9,20 +9,22 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 library(tidyverse)
 library(parlitools)
-library(gt)
+library(blogdown)
 party_colour_list <- party_colour %>% pmap(function(party_name, party_colour, ...) rlang::list2("{party_name}" := party_colour)) %>% flatten()
 ```
 
-{{< tweet 1267876609559867394 >}}
-{{< tweet 1267882105230569473 >}}
-{{< tweet 1267883942897766401 >}}
+```{r echo=FALSE}
+shortcodes("tweet", c("1267876609559867394","1267882105230569473","1267883942897766401"))
+```
 
 The death toll from COVID-19 in the UK has passed 50,000. This is a tragedy
 that is hard to comprehend.
 
 You can picture a large football stadium full to the rafters:
 
-{{< figure src="Etihad_Stadium.jpg" title="Manchester City Etihad Stadium (capacity 55,097) [CC-BY Cléria De Souza]" lightbox="true" >}}
+```{r echo=FALSE}
+shortcode("figure", src = "Etihad_Stadium.jpg", title = "Manchester City Etihad Stadium (capacity 55,097) [CC-BY Cléria De Souza]", lightbox = "true")
+```
 
 Or you can picture 50 secondary schools or 500 orchestras.
 
