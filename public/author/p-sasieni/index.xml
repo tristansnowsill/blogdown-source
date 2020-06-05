@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P Sasieni | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/author/p-sasieni/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/author/p-sasieni/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/p-sasieni/</link>
+      <atom:link href="/author/p-sasieni/index.xml" rel="self" type="application/rss+xml" />
     <description>P Sasieni</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>P Sasieni</title>
-      <link>https://www.tristansnowsill.co.uk/author/p-sasieni/</link>
+      <link>/author/p-sasieni/</link>
     </image>
     
     <item>
       <title>The Manchester International Consensus Group recommendations for the management of gynecological cancers in Lynch syndrome</title>
-      <link>https://www.tristansnowsill.co.uk/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</link>
+      <link>/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</guid>
+      <guid>/publication/crosbie-2019-the-manchester-international-consensus-group-recommendations/</guid>
       <description></description>
     </item>
     

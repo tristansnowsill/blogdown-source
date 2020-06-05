@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S Marks | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/author/s-marks/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/author/s-marks/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/s-marks/</link>
+      <atom:link href="/author/s-marks/index.xml" rel="self" type="application/rss+xml" />
     <description>S Marks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>S Marks</title>
-      <link>https://www.tristansnowsill.co.uk/author/s-marks/</link>
+      <link>/author/s-marks/</link>
     </image>
     
     <item>
       <title>Immunosuppressive therapy for kidney transplantation in children and adolescents: Systematic review and economic evaluation</title>
-      <link>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</link>
+      <link>/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</guid>
+      <guid>/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</guid>
       <description></description>
     </item>
     

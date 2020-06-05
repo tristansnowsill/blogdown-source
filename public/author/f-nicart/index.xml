@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>F Nicart | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/author/f-nicart/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/author/f-nicart/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/f-nicart/</link>
+      <atom:link href="/author/f-nicart/index.xml" rel="self" type="application/rss+xml" />
     <description>F Nicart</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>F Nicart</title>
-      <link>https://www.tristansnowsill.co.uk/author/f-nicart/</link>
+      <link>/author/f-nicart/</link>
     </image>
     
     <item>
       <title>NOAM: News outlets analysis and monitoring system</title>
-      <link>https://www.tristansnowsill.co.uk/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</link>
+      <link>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</guid>
+      <guid>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finding surprising patterns in textual data streams</title>
-      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</link>
+      <link>/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</guid>
+      <guid>/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</guid>
       <description></description>
     </item>
     

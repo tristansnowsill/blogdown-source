@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L Long | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/author/l-long/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/author/l-long/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/l-long/</link>
+      <atom:link href="/author/l-long/index.xml" rel="self" type="application/rss+xml" />
     <description>L Long</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>L Long</title>
-      <link>https://www.tristansnowsill.co.uk/author/l-long/</link>
+      <link>/author/l-long/</link>
     </image>
     
     <item>
       <title>Do we know enough about the effect of low-dose computed tomography screening for lung cancer on survival to act? A systematic review, meta-analysis and network meta-analysis of randomised controlled trials.</title>
-      <link>https://www.tristansnowsill.co.uk/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</link>
+      <link>/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</guid>
+      <guid>/publication/yang-2019-do-we-know-enough-about-the-effect-of-low-dose-computed-tomography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-dose computed tomography for lung cancer screening in high-risk populations: A systematic review and economic evaluation</title>
-      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</link>
+      <link>/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</guid>
+      <guid>/publication/snowsill-2018-low-dose-computed-tomograph-for-lung-cancer-screening/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effectiveness and cost-effectiveness of erythropoiesis-stimulating agents (epoetin and darbepoetin) for treating cancer treatment-induced anaemia (including review of technology appraisal no. 142): A systematic review and economic model</title>
-      <link>https://www.tristansnowsill.co.uk/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</link>
+      <link>/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</guid>
+      <guid>/publication/crathorne-2016-the-effectiveness-and-cost-effectiveness-of-erythropoiesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1498P WHAT IS THE CLINICAL EFFECTIVENESS OF ERYTHROPOIESIS STIMULATING AGENTS FOR THE TREATMENT OF CANCER TREATMENT-INDUCED ANAEMIA?</title>
-      <link>https://www.tristansnowsill.co.uk/publication/crathorne-2014-what-is-the-clinical-effectiveness-of-erythropoiesis/</link>
+      <link>/publication/crathorne-2014-what-is-the-clinical-effectiveness-of-erythropoiesis/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/crathorne-2014-what-is-the-clinical-effectiveness-of-erythropoiesis/</guid>
+      <guid>/publication/crathorne-2014-what-is-the-clinical-effectiveness-of-erythropoiesis/</guid>
       <description></description>
     </item>
     

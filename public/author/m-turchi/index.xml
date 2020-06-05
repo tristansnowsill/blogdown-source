@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Turchi | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/author/m-turchi/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/author/m-turchi/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/m-turchi/</link>
+      <atom:link href="/author/m-turchi/index.xml" rel="self" type="application/rss+xml" />
     <description>M Turchi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>M Turchi</title>
-      <link>https://www.tristansnowsill.co.uk/author/m-turchi/</link>
+      <link>/author/m-turchi/</link>
     </image>
     
     <item>
       <title>NOAM: News outlets analysis and monitoring system</title>
-      <link>https://www.tristansnowsill.co.uk/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</link>
+      <link>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</guid>
+      <guid>/publication/flaounas-2011-noam-news-outlets-analysis-and-monitoring-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Found in translation</title>
-      <link>https://www.tristansnowsill.co.uk/publication/turchi-2009-found-in-translation/</link>
+      <link>/publication/turchi-2009-found-in-translation/</link>
       <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/turchi-2009-found-in-translation/</guid>
+      <guid>/publication/turchi-2009-found-in-translation/</guid>
       <description></description>
     </item>
     

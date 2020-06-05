@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Physical activity | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/tag/physical-activity/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/tag/physical-activity/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/physical-activity/</link>
+      <atom:link href="/tag/physical-activity/index.xml" rel="self" type="application/rss+xml" />
     <description>Physical activity</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 30 May 2020 13:55:18 +0100</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>Physical activity</title>
-      <link>https://www.tristansnowsill.co.uk/tag/physical-activity/</link>
+      <link>/tag/physical-activity/</link>
     </image>
     
     <item>
       <title>A Trial of physical Activity assisted Reduction of Smoking (TARS)</title>
-      <link>https://www.tristansnowsill.co.uk/project/tars/</link>
+      <link>/project/tars/</link>
       <pubDate>Sat, 30 May 2020 13:55:18 +0100</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/project/tars/</guid>
+      <guid>/project/tars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REACT</title>
-      <link>https://www.tristansnowsill.co.uk/project/react/</link>
+      <link>/project/react/</link>
       <pubDate>Sat, 30 May 2020 10:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/project/react/</guid>
+      <guid>/project/react/</guid>
       <description></description>
     </item>
     

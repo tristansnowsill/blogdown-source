@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RE Mujica Mota | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/author/re-mujica-mota/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/author/re-mujica-mota/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/re-mujica-mota/</link>
+      <atom:link href="/author/re-mujica-mota/index.xml" rel="self" type="application/rss+xml" />
     <description>RE Mujica Mota</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>RE Mujica Mota</title>
-      <link>https://www.tristansnowsill.co.uk/author/re-mujica-mota/</link>
+      <link>/author/re-mujica-mota/</link>
     </image>
     
     <item>
       <title>Azacitidine for Treating Acute Myeloid Leukaemia with More Than 30 % Bone Marrow Blasts: An Evidence Review Group Perspective of a National Institute for Health and Care Excellence Single Technology Appraisal</title>
-      <link>https://www.tristansnowsill.co.uk/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
+      <link>/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
+      <guid>/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
       <description></description>
     </item>
     

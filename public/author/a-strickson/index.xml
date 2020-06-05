@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Strickson | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/author/a-strickson/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/author/a-strickson/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/a-strickson/</link>
+      <atom:link href="/author/a-strickson/index.xml" rel="self" type="application/rss+xml" />
     <description>A Strickson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>A Strickson</title>
-      <link>https://www.tristansnowsill.co.uk/author/a-strickson/</link>
+      <link>/author/a-strickson/</link>
     </image>
     
     <item>
       <title>Handsearching had best recall but poor efficiency when exporting to a bibliographic tool: case study</title>
-      <link>https://www.tristansnowsill.co.uk/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</link>
+      <link>/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</guid>
+      <guid>/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</guid>
       <description></description>
     </item>
     

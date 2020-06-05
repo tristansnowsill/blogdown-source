@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MJ Allwood | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/author/mj-allwood/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/author/mj-allwood/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/mj-allwood/</link>
+      <atom:link href="/author/mj-allwood/index.xml" rel="self" type="application/rss+xml" />
     <description>MJ Allwood</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>MJ Allwood</title>
-      <link>https://www.tristansnowsill.co.uk/author/mj-allwood/</link>
+      <link>/author/mj-allwood/</link>
     </image>
     
     <item>
       <title>Immunosuppressive agents in adult kidney transplantation in the National Health Service: A model-based economic evaluation</title>
-      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</link>
+      <link>/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</guid>
+      <guid>/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</guid>
       <description></description>
     </item>
     

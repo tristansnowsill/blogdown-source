@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K Simms | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/author/k-simms/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/author/k-simms/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/k-simms/</link>
+      <atom:link href="/author/k-simms/index.xml" rel="self" type="application/rss+xml" />
     <description>K Simms</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>K Simms</title>
-      <link>https://www.tristansnowsill.co.uk/author/k-simms/</link>
+      <link>/author/k-simms/</link>
     </image>
     
     <item>
       <title>The predicted impact and cost-effectiveness of systematic testing of people with incident colorectal cancer for Lynch syndrome</title>
-      <link>https://www.tristansnowsill.co.uk/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</link>
+      <link>/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</guid>
+      <guid>/publication/kang-2020-the-predicted-impact-and-cost-effectiveness-of-systematic-testing/</guid>
       <description></description>
     </item>
     

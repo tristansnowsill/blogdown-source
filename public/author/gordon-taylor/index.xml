@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gordon Taylor | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/author/gordon-taylor/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/author/gordon-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/gordon-taylor/</link>
+      <atom:link href="/author/gordon-taylor/index.xml" rel="self" type="application/rss+xml" />
     <description>Gordon Taylor</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>Gordon Taylor</title>
-      <link>https://www.tristansnowsill.co.uk/author/gordon-taylor/</link>
+      <link>/author/gordon-taylor/</link>
     </image>
     
     <item>
       <title>The Tribulations of Trials: Lessons Learnt Recruiting 777 Older Adults Into REtirement in ACTion (REACT), a Trial of a Community, Group-Based Active Aging Intervention Targeting Mobility Disability</title>
-      <link>https://www.tristansnowsill.co.uk/publication/withall-2020-the-tribulations-of-trials/</link>
+      <link>/publication/withall-2020-the-tribulations-of-trials/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/publication/withall-2020-the-tribulations-of-trials/</guid>
+      <guid>/publication/withall-2020-the-tribulations-of-trials/</guid>
       <description></description>
     </item>
     

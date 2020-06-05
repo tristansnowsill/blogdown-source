@@ -2,21 +2,153 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Tristan Snowsill</title>
-    <link>https://www.tristansnowsill.co.uk/post/</link>
-      <atom:link href="https://www.tristansnowsill.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://www.tristansnowsill.co.uk/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
+      <title>Reading list</title>
+      <link>/post/reading-list/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/reading-list/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://dev.to/piczmar_0/when-you-never-close-tabs-on-your-mobile-chrome-browser-2boj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;When you never close tabs on your mobile Chrome browser - DEV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://m.europe.nflshop.com/stores/nfl/mobile/en/product/new-york-jets-3-pack-face-coverings---adults/297739?categories=accessories%2Cface-coverings&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New York Jets 3 Pack Face Coverings - Adults | NFL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://pornophonique.bandcamp.com/album/brave-new-world&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brave New World | pornophonique&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://journals.sagepub.com/doi/full/10.1177/0272989X18798833&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Future Directions for Cost-effectiveness Analyses in Health and Medicine - Peter J. Neumann, David D. Kim, Thomas A. Trikalinos, Mark J. Sculpher, Joshua A. Salomon, Lisa A. Prosser, Douglas K. Owens, David O. Meltzer, Karen M. Kuntz, Murray Krahn, David Feeny, Anirban Basu, Louise B. Russell, Joanna E. Siegel, Theodore G. Ganiats, Gillian D. Sanders, 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Time Preferences for Health - Oxford Research Encyclopedia of Economics and Finance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s40273-018-0734-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Discrete Choice Experiments in Health Economics: Past, Present and Future | SpringerLink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.schmidheiny.name/teaching/shortguides.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teaching - Kurt Schmidheiny&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs10198-018-1017-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Do time trade-off values fully capture attitudes that are relevant to health-related choices? | SpringerLink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.york.ac.uk/che/news/news-2019/che-research-paper-160/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CHE Research Paper 160 - Centre for Health Economics, The University of York&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://michaelkupperman.com/snakenbacons-cartoon-cabaret/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Snake&#39;N&#39;Bacon&#39;s Cartoon Cabaret — MICHAEL KUPPERMAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSexoOAaRu4-HUCr8K5MGOa8lSWjwaCArfb4VWUyuWcyVDo6rQ/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;docs.google.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your-conclusions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Causal Diagrams: Draw Your Assumptions Before Your Conclusions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://academic.oup.com/ije/article/46/2/756/2760169&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;introduction to g methods | International Journal of Epidemiology | Oxford Academic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s10654-019-00494-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Principles of confounder selection | SpringerLink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://iwanttobeavoiceactor.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I Want To Be A Voice Actor! – Dee Bradley Baker&#39;s &amp;quot;All to Know About Going Pro in V.O.&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.finder.com/netflix/genre-list&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netflix Genre List: 23,458 more secret Genres not in other lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;designing scientific figures for color blind people to make them more accessible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/j.1524-4733.2006.00107.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Probabilistic Analysis and Computationally Expensive Models: Necessary and Required? - Griffin - 2006 - Value in Health - Wiley Online Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://aheblog.com/2019/06/12/how-to-explain-cost-effectiveness-models-for-diagnostic-tests-to-a-lay-audience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to explain cost-effectiveness models for diagnostic tests to a lay audience - The Academic Health Economists&#39; Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/0272989X14538705&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Value of Heterogeneity for Cost-Effectiveness Subgroup Analysis: Conceptual Framework and Application - Manuel A. Espinoza, Andrea Manca, Karl Claxton, Mark J. Sculpher, 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://journals.sagepub.com/doi/abs/10.1177/0272989X19851095&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alternative Conversion Methods for Transition Probabilities in State-Transition Models: Validity and Impact on Comparative Effectiveness and Cost-Effectiveness - Beate Jahn, Christina Kurzthaler, Jagpreet Chhatwal, Elamin H. Elbasha, Annette Conrads-Frank, Ursula Rochau, Gaby Sroczynski, Christoph Urach, Marvin Bundo, Niki Popper, Uwe Siebert, 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41436-019-0618-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The complete costs of genome sequencing: a microcosting study in cancer and rare diseases from a single center in the United Kingdom | Genetics in Medicine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://journals.sagepub.com/doi/abs/10.1177/0272989X19868987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modeling the Economic Impact of Interventions for Older Populations with Multimorbidity: A Method of Linking Multiple Single-Disease Models - Ji-Hee Youn, Matt D. Stevenson, Praveen Thokala, Katherine Payne, Maria Goddard,&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What Statistics Can and Can’t Tell Us About Ourselves  | The New Yorker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.prospectmagazine.co.uk/magazine/childhood-inoculation-rates-are-falling-but-are-anti-vaccine-campaigns-really-to-blame-anti-vaxxers-measles-medicine-health&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Why there’s more to the anti-vaxxing narrative than meets the eye | Prospect Magazine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://ghcearegistry.org/ghcearegistry/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nature.com/articles/d41586-019-02918-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Novelist Cormac McCarthy’s tips on how to write a great science paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://smdm.confex.com/smdm/2019/meetingapp.cgi/Paper/12315&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41st Annual Meeting of the Society for Medical Decision Making&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3654&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Missing data in trial‐based cost‐effectiveness analysis: An incomplete journey - Leurent - 2018 - Health Economics - Wiley Online Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1911.09980&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[1911.09980] Bootstrap Inference for Multiple Imputation under Uncongeniality and Misspecification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs40273-018-0693-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Model Structuring for Economic Evaluations of New Health Technologies | SpringerLink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.tandfonline.com/doi/10.1080/17477778.2018.1442155&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Strengthening the reporting of empirical simulation studies: Introducing the STRESS guidelines: Journal of Simulation: Vol 13, No 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://theconversation.com/youre-probably-more-susceptible-to-misinformation-than-you-think-129171&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You&#39;re probably more susceptible to misinformation than you think&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs40273-019-00869-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;One-Way Sensitivity Analysis for Probabilistic Cost-Effectiveness Analysis: Conditional Expected Incremental Net Benefit | SpringerLink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0167629619307374?dgcid=author&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A welfare-theoretic model consistent with the practice of cost-effectiveness analysis and its implications - ScienceDirect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2001.07824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[2001.07824] Cohort state-transition models in R: From conceptualization to implementation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jme.bmj.com/content/44/11/793.full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disability discrimination and misdirected criticism of the quality-adjusted life year framework | Journal of Medical Ethics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.journalofdairyscience.org/article/S0022-0302%2812%2900225-1/fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lt;em&amp;gt;Technical note:&amp;lt;/em&amp;gt; The risk ratio, an alternative to the odds ratio for estimating the association between multiple risk factors and a dichotomous outcome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://journals.sagepub.com/doi/abs/10.1177/0272989x19894940&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Challenges of Parameterizing Direct Effects in Individual-Level Simulation Models - Eleanor J. Murray, James M. Robins, George R. Seage, Kenneth A. Freedberg, Miguel A. Hernán, 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.infoworld.com/article/3527294/get-rstudio-conference-2020-workshop-materials-free-online.amp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to get RStudio Conference 2020 workshop materials free online | InfoWorld&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.ropensci.org/osfr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interface to the Open Science Framework (OSF) • rOpenSci: osfr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ten Simple Rules to becoming a principal investigator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nsgrantham.shinyapps.io/tidytuesdayrocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.thehyperloops.com/howtosuperdestiny/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How To: Super Destiny Mod on Tabletop Simulator - TheHyperloops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.15651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Risk‐reducing early salpingectomy and delayed oophorectomy as a two‐staged alternative for primary prevention of ovarian cancer in women at increased risk: a commentary - Gaba - 2019 - BJOG: An International Journal of Obstetrics &amp;amp;amp; Gynaecology - Wiley Online Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://aheblog.com/2020/03/09/chris-sampsons-journal-round-up-for-9th-march-2020/amp/?__twitter_impression=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris Sampson’s journal round-up for 9th March 2020 - The Academic Health Economists&#39; Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0277953617307359#sec4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Understanding and misunderstanding randomized controlled trials - ScienceDirect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://towardsdatascience.com/bayesian-inference-algorithms-mcmc-and-vi-a8dad51ad5f5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian Inference Algorithms: MCMC and VI - Towards Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.wizardingworld.com/collections/harry-potter-at-home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bringing Hogwarts to You&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://aheblog.com/2020/04/06/rita-farias-journal-round-up-for-6th-april-2020/amp/?__twitter_impression=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rita Faria’s journal round-up for 6th April 2020 - The Academic Health Economists&#39; Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.tidymodels.org/start/case-study/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get Started - A predictive modeling case study&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/allisonhorst/stats-illustrations/blob/master/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;stats-illustrations/README.md at master · allisonhorst/stats-illustrations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.publicaffairsbooks.com/titles/stephanie-kelton/the-deficit-myth/9781541736184/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Deficit Myth by Stephanie Kelton | PublicAffairs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://rstudio.github.io/thematic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unified and Automatic Theming of ggplot2, lattice, and base R Graphics • thematic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://tour.golang.org/welcome/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Tour of Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nacnudus.github.io/duncangarmonsway/posts/2016-05-11-simmer-bank-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Duncan Garmonsway: Simmer vs SimPy: The Bank, Part I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s40273-018-0729-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expanding the Scope of Costs and Benefits for Economic Evaluations in Health: Some Words of Caution | SpringerLink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.hive.co.uk/Product/Marcus-Brigstocke/The-Wilsons-Save-the-World-Series-1-and-2--The-BBC-Radio-4-comedy/24937410&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Wilsons Save the World: Series 1 and 2 : The BBC Radio 4 comedy: Marcus Brigstocke: 9781787533141: hive.co.uk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.valueinhealthjournal.com/article/S1098-3015%2820%2930149-2/pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1098301520301492%3Fshowall%3Dtrue&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computing the Expected Value of Sample Information Efficiently: Practical Guidance and Recommendations for Four Model-Based Methods - Value in Health&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1111/ecoj.12577?platform=hootsuite&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Theory of Socio‐economic Disparities in Health over the Life Cycle - Galama - - The Economic Journal - Wiley Online Library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The 25 days of chRistmas: an R advent calendaR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>What could 50,000 voters achieve?</title>
-      <link>https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/</link>
+      <link>/post/2020-06-04-what-could-50000-voters-achieve/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/</guid>
+      <guid>/post/2020-06-04-what-could-50000-voters-achieve/</guid>
       <description>&lt;!--html_preserve--&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;UK coronavirus death toll passes 50,000, official figures show&lt;a href=&#34;https://twitter.com/hashtag/COVID%E3%83%BC19?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#COVIDー19&lt;/a&gt;&lt;a href=&#34;https://t.co/53S2cNaxbd&#34;&gt;https://t.co/53S2cNaxbd&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tristan Snowsill #BlackLivesMatter (@TMSnowsill) &lt;a href=&#34;https://twitter.com/TMSnowsill/status/1267876609559867394?ref_src=twsrc%5Etfw&#34;&gt;June 2, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Another example which might galvanise politicians...&lt;br&gt;&lt;br&gt;50,000 tactical voters, precisely placed, could reduce the number of Conservative MPs from 365 (majority 80) to 313 (hung parliament).&lt;/p&gt;&amp;mdash; Tristan Snowsill #BlackLivesMatter (@TMSnowsill) &lt;a href=&#34;https://twitter.com/TMSnowsill/status/1267883942897766401?ref_src=twsrc%5Etfw&#34;&gt;June 2, 2020&lt;/a&gt;&lt;/blockquote&gt;
@@ -27,8 +159,8 @@ that is hard to comprehend.&lt;/p&gt;
 &lt;p&gt;You can picture a large football stadium full to the rafters:&lt;/p&gt;
 &lt;!--html_preserve--&gt;
 &lt;figure id=&#34;figure-manchester-city-etihad-stadium-capacity-55097-cc-by-cléria-de-souza&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/Etihad_Stadium_hu5438825b9b6d1014226d20d231e650c2_1991346_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Manchester City Etihad Stadium (capacity 55,097) [CC-BY Cléria De Souza]&#34;&gt;
-  &lt;img data-src=&#34;https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/Etihad_Stadium_hu5438825b9b6d1014226d20d231e650c2_1991346_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3543&#34; height=&#34;2358&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-06-04-what-could-50000-voters-achieve/Etihad_Stadium_hu5438825b9b6d1014226d20d231e650c2_1991346_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Manchester City Etihad Stadium (capacity 55,097) [CC-BY Cléria De Souza]&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-06-04-what-could-50000-voters-achieve/Etihad_Stadium_hu5438825b9b6d1014226d20d231e650c2_1991346_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3543&#34; height=&#34;2358&#34;&gt;
 &lt;/a&gt;
   &lt;figcaption&gt;
     Manchester City Etihad Stadium (capacity 55,097) [CC-BY Cléria De Souza]
@@ -41,9 +173,9 @@ that is hard to comprehend.&lt;/p&gt;
 50,000 Conservative voters in precisely chosen constituencies to the
 second-place party, 52 Conservative MPs would lose their seats.&lt;/p&gt;
 &lt;p&gt;Here is the current political map:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/index_files/figure-html/Current map-1.png&#34; width=&#34;480&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-06-04-what-could-50000-voters-achieve/index_files/figure-html/Current map-1.png&#34; width=&#34;480&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Here is what it looks like in the scenario described:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.tristansnowsill.co.uk/post/2020-06-04-what-could-50000-voters-achieve/index_files/figure-html/Scenario 1-1.png&#34; width=&#34;480&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-06-04-what-could-50000-voters-achieve/index_files/figure-html/Scenario 1-1.png&#34; width=&#34;480&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In this scenario 39 seats flip to Labour (now at 241), 9 flip to the Liberal
 Democrats (now at 20) and 4 flip to the SNP (now at 52). There is a hung
 parliament with the Conservatives having 313 MPs. A rainbow coalition of
@@ -68,9 +200,9 @@ post, and politicians are more acutely aware of that than most.&lt;/p&gt;
     
     <item>
       <title>Wait, I can blog in R?</title>
-      <link>https://www.tristansnowsill.co.uk/post/2020-05-30-wait-i-can-blog-in-r/</link>
+      <link>/post/2020-05-30-wait-i-can-blog-in-r/</link>
       <pubDate>Sat, 30 May 2020 14:27:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/post/2020-05-30-wait-i-can-blog-in-r/</guid>
+      <guid>/post/2020-05-30-wait-i-can-blog-in-r/</guid>
       <description>&lt;/p&gt;
 &lt;p&gt;This feels pretty powerful.&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;storms %&amp;gt;%
@@ -472,16 +604,16 @@ post, and politicians are more acutely aware of that than most.&lt;/p&gt;
   geom_bar() +
   labs(x = &amp;quot;Year&amp;quot;, y = &amp;quot;Number of storms&amp;quot;, fill = &amp;quot;Category&amp;quot;) +
   theme_minimal()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.tristansnowsill.co.uk/post/2020-05-30-wait-i-can-blog-in-r_files/figure-html/plot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-05-30-wait-i-can-blog-in-r_files/figure-html/plot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>People are nice</title>
-      <link>https://www.tristansnowsill.co.uk/post/people-are-nice/</link>
+      <link>/post/people-are-nice/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.tristansnowsill.co.uk/post/people-are-nice/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I&amp;#39;d like to say a big thank you to everyone who got in touch with messages of support yesterday on Twitter and elsewhere.&lt;br&gt;&lt;br&gt;You are all amazing and so caring and exactly the sorts of people I want to have as friends and colleagues.&lt;br&gt;&lt;br&gt;I&amp;#39;m feeling a little better today.&lt;/p&gt;&amp;mdash; Tristan Snowsill (@TMSnowsill) &lt;a href=&#34;https://twitter.com/TMSnowsill/status/1266253009656311816?ref_src=twsrc%5Etfw&#34;&gt;May 29, 2020&lt;/a&gt;&lt;/blockquote&gt;
+      <guid>/post/people-are-nice/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I&amp;#39;d like to say a big thank you to everyone who got in touch with messages of support yesterday on Twitter and elsewhere.&lt;br&gt;&lt;br&gt;You are all amazing and so caring and exactly the sorts of people I want to have as friends and colleagues.&lt;br&gt;&lt;br&gt;I&amp;#39;m feeling a little better today.&lt;/p&gt;&amp;mdash; Tristan Snowsill #BlackLivesMatter (@TMSnowsill) &lt;a href=&#34;https://twitter.com/TMSnowsill/status/1266253009656311816?ref_src=twsrc%5Etfw&#34;&gt;May 29, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 </description>
