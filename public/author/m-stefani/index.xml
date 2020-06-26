@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Stefani | Tristan Snowsill</title>
-    <link>/author/m-stefani/</link>
-      <atom:link href="/author/m-stefani/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tristansnowsill.co.uk/author/m-stefani/</link>
+      <atom:link href="https://www.tristansnowsill.co.uk/author/m-stefani/index.xml" rel="self" type="application/rss+xml" />
     <description>M Stefani</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>M Stefani</title>
-      <link>/author/m-stefani/</link>
+      <link>https://www.tristansnowsill.co.uk/author/m-stefani/</link>
     </image>
     
     <item>
       <title>Finding surprising patterns in textual data streams</title>
-      <link>/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2010-finding-surprising-patterns-in-textual-data-streams/</guid>
       <description></description>
     </item>
     

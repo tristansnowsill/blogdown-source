@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C Cooper | Tristan Snowsill</title>
-    <link>/author/c-cooper/</link>
-      <atom:link href="/author/c-cooper/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.tristansnowsill.co.uk/author/c-cooper/</link>
+      <atom:link href="https://www.tristansnowsill.co.uk/author/c-cooper/index.xml" rel="self" type="application/rss+xml" />
     <description>C Cooper</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tristan Snowsill</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.tristansnowsill.co.uk/images/icon_hu050d7ab96a8b87ebb29a3f4b58eca100_52805_512x512_fill_lanczos_center_2.png</url>
       <title>C Cooper</title>
-      <link>/author/c-cooper/</link>
+      <link>https://www.tristansnowsill.co.uk/author/c-cooper/</link>
     </image>
     
     <item>
       <title>Handsearching had best recall but poor efficiency when exporting to a bibliographic tool: case study</title>
-      <link>/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/cooper-2020-handsearching-had-best-recall-but-poor-efficiency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Three biomarker tests to help diagnose preterm labour: a systematic review and economic evaluation</title>
-      <link>/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/varley-campbell-2019-three-biomarker-tests-to-help-diagnose-preterm-labour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunosuppressive agents in adult kidney transplantation in the National Health Service: A model-based economic evaluation</title>
-      <link>/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2017-immunosuppressive-agents-in-adult-kidney-transplantation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azacitidine for Treating Acute Myeloid Leukaemia with More Than 30 % Bone Marrow Blasts: An Evidence Review Group Perspective of a National Institute for Health and Care Excellence Single Technology Appraisal</title>
-      <link>/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/tikhonova-2017-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AZACITIDINE FOR TREATING ACUTE MYELOID LEUKAEMIA: A NICE SINGLE TECHNOLOGY APPRAISAL</title>
-      <link>/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/tikhonova-2016-azacitidine-for-treating-acute-myeloid-leukaemia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunosuppressive therapy for kidney transplantation in adults: a systematic review and economic model</title>
-      <link>/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/jones-hughes-2016-immunosuppressive-therapy-for-kidney-transplantation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunosuppressive therapy for kidney transplantation in children and adolescents: Systematic review and economic evaluation</title>
-      <link>/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/haasova-2016-immunosuppressive-therapy-for-kidney-transplantation-in-children/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A model-based assessment of the cost-utility of strategies to identify Lynch syndrome in early-onset colorectal cancer patients</title>
-      <link>/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2015-a-model-based-assessment-of-the-cost-utility-of-strategies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systematic review and economic evaluation of intraoperative tests [RD-100i one-step nucleic acid amplification (OSNA) system and Metasin test] for detecting sentinel lymph node metastases in breast cancer.</title>
-      <link>/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/huxley-2015-a-systematic-review-and-economic-evaluation-of-intraoperative-tests/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systematic review and economic evaluation of diagnostic strategies for Lynch syndrome</title>
-      <link>/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/snowsill-2014-a-systematic-review-and-economic-evaluation-of-diagnostic-strategies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COST-EFFECTIVENESS OF SYSTEMATIC TESTING FOR LYNCH SYNDROME IN PATIENTS NEWLY DIAGNOSED WITH COLORECTAL CANCER IN THE UNITED KINGDOM</title>
-      <link>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</link>
+      <link>https://www.tristansnowsill.co.uk/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</guid>
+      <guid>https://www.tristansnowsill.co.uk/publication/huxley-2013-cost-effectiveness-of-systematic-testing-for-lynch-syndrome/</guid>
       <description></description>
     </item>
     
